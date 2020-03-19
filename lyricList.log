@@ -1,0 +1,963 @@
+INFO:root:Repeats:       {'light.', 'tequila.', 'country.', 'alright.', 'quit.', 'no.', 'moonlight all in.', 'whiskey.', 'girl.', 'over.', 'am.', 'damn.', 'me.', 'near.', 'on.', 'desperate man.', 'long.', 'arms.', 'string.', 'drunk.', 'wind.', 'dust.', 'sunset repeat.', 'judge.', 'more.', 'thing.', 'need.', 'hallway.', 'comin.', 'goes.', 'radio.', 'like.', 'anywhere.', 'hair.', 'uh.', 'repeat.', 'in.', 'ashes.', 'california.', 'about.', 'street.', 'got.', 'smile.', 'top.', 'know.', 'sleeve.', 'crazy.', 'fire.', 'ring.', 'time.', 'sixteen.', 'brothers.', 'tonight.', 'make.', 'losin.', 'not.', 'night.', 'row.', 'be.', 'gold.', 'heart.', 'say.', 'baby.', 'man.', 'outside on.', 'lights.', 'ya.', 'beautiful.', 'everywhere.', 'reason why.', 'whoa.', 'see.', 'down.', 'up.', 'name.', 'it.', 'chances.', 'prayin.', 'tears.', 'learning in history.', 'one.', 'room.', 'rich.', 'most.', 'go.', 'bottle.', 'doubt.', 'dimes.', 'm p l e.', 'goin down.', 'around.', 'wins.', 'honkytonk.', 'do.', 'feelin.', 'out.', 'value.', 'trouble.', 'perfect.', 'girlfriends perfume.', 'how.', 'da.', 'love.', 'bar.', 'church.', 'off.', 'wall.', 'right.', 'mind.', 'speechless.', 'sophomore year.', 'forever.', 'unsaid.', 'you.', 'heaven.', 'hand.', 'gambling.', 'unpredictable unforgettable.', 'three.', 'pain.', 'lips.', 'rocks.', 'falls asleep.', 'choosin.', 'yeah.'}
+INFO:root:
+Shortest word: (1, '5.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (35, 'wondering where she pulls that hurt-like-hell for nothin phone trying not even run it sound so good for when youre dancing swaying to say man its all your perfume is where the sadness the wall.')
+INFO:root:Probability:   1.6546161765855527e-35
+
+INFO:root:Repeats:       {'slayed.', 'nawfside charles barkley.', 'brrr.', 'russia.', 'no.', 'gucci.', 'riding.', 'done.', 'jet shit.', 'damn.', 'huh.', 'bank roll whoa.', 'played me.', 'kno.', 'me.', 'wraith.', 'rap ayy.', 'bitch.', 'trapmoneybenny.', 'sky.', 'fuck.', 'miss us baby.', 'the.', 'fabrics chanel.', 'control.', 'real.', 'wow.', 'that.', 'ay.', 'rollin.', 'land.', 'back.', 'ooh.', 'c woo.', 'again.', 'ayy.', 'uh.', 'woah yeah.', 'about.', 'money.', 'bro.', 'kulture.', 'unknown known.', 'sheets.', 'damn ay.', 'dead.', 'spinnin.', 'ring.', 'ecstasy uh.', 'kickin.', 'yes.', 'taste.', 'rough hoe.', 'skrrt.', 'shook.', 'profane.', 'hoo.', 'bow.', 'oh.', 'baby.', 'large bills.', 'man.', 'calabasas.', 'fraud.', 'ya.', 'coupe.', 'muzzle.', 'expansion.', 'whoa.', 'joke haha hahahahaha.', 'down.', 'produced.', 'fly.', 'it.', 'roll.', 'everything.', 'dance.', 'one.', 'room.', 'go.', 'deep.', 'now.', 'about cha.', 'his name.', 'but.', 'around.', 'alone.', 'paid.', 'what.', 'friends.', 'ways.', 'do.', 'is.', 'love.', 'legs.', 'egg.', 'woo.', 'face.', 'nigga.', 'shit.', 'right.', 'doin.', 'charles barkley.', 'hell.', 'you.', 'freak freak.', 'grape.', 'roof.', 'road.', 'truth.', 'pussy.', 'sunflower.', 'yeah.', 'said.'}
+INFO:root:
+Shortest word: (1, '10.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (28, 'do it cause youre a twenty ounce soda pop on a photo with it for revenge man she called my dick like we grew up in your heart.')
+INFO:root:Probability:   2.5808820360643436e-29
+
+INFO:root:Repeats:       {'game.', 'rise.', 'crown.', 'alright.', 'son.', 'doll.', 'over.', 'by.', 'final curtain falls.', 'me.', 'babe.', 'letter.', 'win.', 'on.', 'align.', 'exponentially.', 'swell.', 'natural.', 'long.', 'america.', 'stars.', 'there.', 'something.', 'free.', 'proud.', 'more.', 'pageantry.', 'cold.', 'crawling.', 'again.', 'drops.', 'will.', 'trust.', 'nothing.', 'in.', 'mantra.', 'dime.', 'preacher will.', 'image.', 'know.', 'dead.', 'through.', 'us.', 'dark.', 'knees.', 'change.', 'body.', 'loud.', 'disturb.', 'eyes.', 'left.', 'not.', 'clear.', 'hill.', 'sense.', 'be.', 'shotgun.', 'plot.', 'building.', 'oh.', 'conveniences sake ever.', 'life.', 'baby.', 'wrong.', 'see.', 'display.', 'down.', 'up.', 'away.', 'product of.', 'hardest.', 'give.', 'high.', 'head.', 'it.', 'roll.', 'someone.', 'one.', 'rich.', 'song.', 'go.', 'find.', 'pours.', 'now.', 'doubt.', 'gods.', 'stumbles.', 'bulletproof.', 'upon.', 'side.', 'and.', 'legendary.', 'blown away.', 'but.', 'around.', 'alone.', 'fine.', 'carefully.', 'fade.', 'here.', 'lost.', 'out.', 'feelin.', 'holes solid ground.', 'disappear.', 'ready.', 'start.', 'off.', 'alive.', 'disease.', 'right.', 'mind.', '.', 'much.', 'you.', 'fireworks display.', 'going.', 'silence.', 'rain.', 'worst.', 'broken.', 'pain.', 'fail.', 'world.', 'yeah.'}
+INFO:root:
+Shortest word: (1, '.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (41, 'her im the world without a left inside me taste it all those all i fell back is overwhelming and nobody ever happens in life you feel the love her love her heart feel hunger i take our sin will somebody.')
+INFO:root:Probability:   5.657928518606346e-47
+
+INFO:root:Repeats:       {'church.', 'long.', 'again.', 'wins.', 'thing.', 'angels.', 'here.', 'wait.', 'lottery.', 'no.', 'life.', 'town.', 'hand.', 'off.', 'tequila.', 'me.', 'wall.', 'radio.', 'grace.', 'go.', 'baby.', 'fight it.', 'whiskey.', 'hold.', 'were.', 'street.', 'week.', 'vote.', 'truth.', 'millionaire.', 'bottle.', 'ya.', 'tonight.', 'there.', 'mine.', 'sleeve.', 'gold.', 'feelin.', 'goes.', 'bed.', 'fast.', 'texas plain.', 'morning.', 'girl.', 'job.', 'smile.', 'about.', 'one.', 'together.', 'say.', 'sixteen.', 'it.', 'right.', 'homesick.', 'be.', 'door.', 'soul.', 'bar.', 'in.', 'alright.', 'chance.', 'home.', 'out.', 'now.', 'time.', 'am.', 'low lights.', 'room.', 'up.', 'lie.', 'speechless.', 'honkytonk.', 'heart.', 'share.', 'anywhere.', 'you.', 'along.', 'shoulders.', 'chances.', 'struggle.', 'on.', 'top.', 'know.', 'over.', 'all.', 'whoa.', 'fire.', 'beat.', 'tree.', 'marilyn.', 'overrated.', 'down.', 'see.', 'dreamed about.', 'da.', 'avenue.', 'do.', 'yeah.', 'around.', 'amazing grace.', 'country.', 'need.', 'named waylon.', 'california.', 'dirt.', 'sip.', 'how.', 'kitchen.', 'night.', 'rich.', 'man.', 'turned out.', 'repeat.', 'name.', 'comin.', 'got.', 'round.', 'mind.', 'crazy.', 'shot.', 'two three.', 'forget.', 'road.'}
+INFO:root:
+Shortest word: (1, 'about.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (30, 'gon lie aint broke no i swore you ride around the way up off this aint the side of a long as im drinking wine with everything you said hello.')
+INFO:root:Probability:   1.9680998903881107e-34
+
+INFO:root:Repeats:       {'ya.', 'how.', 'room.', 'no.', 'swear.', 'heat.', 'string.', 'wall.', 'job.', 'life.', 'saturday night.', 'got.', 'line.', 'goes.', 'am.', 'man.', 'be.', 'shoulders.', 'water.', 'jeans.', 'down.', 'beat.', 'around.', 'yeah.', 'while.', 'her.', 'light.', 'me.', 'girl.', 'luxury.', 'california.', 'need.', 'exception.', 'long.', 'comin.', 'with.', 'done.', 'anywhere.', 'sometimes.', 'dog named waylon.', 'on.', 'da.', 'roller gambling.', 'repeat.', 'dress.', 'town.', 'you.', 'baby.', 'hands.', 'out.', 'history.', 'free.', 'ious.', 'ended up.', 'to.', 'rocks.', 'night.', 'smile.', 'chances.', 'needs sleep.', 'signs.', 'watch tv.', 'honkytonk.', 'floorboard.', 'name.', 'time.', 'other.', 'way.', 'here.', 'in.', 'tonight.', 'now.', 'luke caseys.', 'tequila.', 'church.', 'wins.', 'smoke.', 'were.', 'up.', 'right.', 'converted by our friends.', 'judge.', 'over.', 'trouble.', 'know.', 'ring could find.', 'prayer.', 'new.', 'damn.', 'runnin.', 'pavin.', 'rich.', 'son.', 'do.', 'love.', 'say.', 'thing.', 'off.', 'sleeve.', 'it.', 'flame.', 'friends.', 'for.', 'bottle.', 'fire.', 'joe.', 'crazy.', 'wait.', 'millionaire.', 'speechless.', 'gold.', 'lips.'}
+INFO:root:
+Shortest word: (1, '150.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (40, 'fall if youre a cliff where carolina meets the sun sink down that thing yeah but now that all that ill spin you give them cool cool cool sheets where you up to be twenty five plus from this fast.')
+INFO:root:Probability:   8.005842988256851e-44
+
+INFO:root:Repeats:       {'bang bang.', 'nah.', 'ya.', 'skrr.', 'fake.', 'unknown.', 'no.', 'room.', 'spray tan.', 'whoa.', 'rod.', 'shit.', 'everything.', 'dussé.', 'feelings.', 'dig.', 'am.', 'rock.', 'man.', 'neck.', 'drunk.', 'down.', 'together okay.', 'safe.', 'care.', 'around.', 'stopped workin.', 'yeah.', 'back.', 'number 9 nine.', 'road.', 'anyway.', 'dust.', 'slice.', 'wreck.', 'me.', 'ayy.', 'rocking rock.', 'bitch.', 'roof.', 'juice.', 'trapmoneybenny.', 'cha.', 'close.', 'break.', 'comin.', 'nawfside charles barkley.', 'money.', 'said.', 'woah yeah.', 'paid.', 'you.', 'fuck.', 'ay.', 'moves.', 'comin too.', 'stop.', 'ring.', 'ass.', 'eludin.', 'one.', 'grave.', 'oh.', 'why.', 'cup.', 'always.', 'amen lord.', 'dollar gettin slayed.', 'bro.', 'face.', 'kickin.', 'alone.', 'other.', 'turbo.', 'hoo.', 'now.', 'scream.', 'tac damn.', 'right.', 'hit.', 'head.', 'coupe.', 'fly.', 'lebron.', 'take.', 'cole.', 'damn.', 'save this.', 'dope.', 'ones go.', 'yup.', 'wave.', 'flight ayy.', 'control.', 'bow.', 'taste.', 'cool.', 'keeps.', 'walkin out.', 'slayed.', 'uh.', 'it.', 'friends.', 'go.', 'god.', 'though.', 'what.', 'fraud.', 'real.', 'huh.', 'scuds go.'}
+INFO:root:
+Shortest word: (1, '2k.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (36, 'pot to her get a xan thirteen hours til i be drippin to say much money young sheck wes im david goliath runnin out here they wanna spend it suck it from the bass is spinnin.')
+INFO:root:Probability:   1.1742626695532418e-31
+
+INFO:root:Repeats:       {'plot.', 'steady now.', 'oxycodone.', 'afterwind.', 'away.', 'comprehend.', 'best.', 'assumed.', 'boulevard.', 'better.', 'building.', 'shit.', 'through.', 'fade.', 'happen.', 'everything.', 'feelings.', 'doubters.', 'lost.', 'be.', 'down.', 'around.', 'corruption.', 'chasing.', 'moonlight.', 'end.', 'ground.', 'bleed enough.', 'america.', 'yeah.', 'back.', 'all.', 'disturb.', 'marks.', 'clear.', 'me.', 'ready.', 'teeth.', 'world.', 'excuses.', 'felons.', 'kind.', 'shotgun.', 'knees.', 'said.', 'paradise.', 'cold.', 'see.', 'choke me.', 'ours.', 'on.', 'strong.', 'upon.', 'da.', 'edge.', 'needs.', 'you.', 'side.', 'door.', 'brain.', 'apart.', 'baby.', 'progress.', 'dark.', 'bullshit with words fail.', 'bound.', 'rest assured.', 'out.', 'history.', 'wrong.', 'free.', 'stop.', 'cutthroat.', 'genocide.', 'first.', 'worst.', 'estate.', 'again.', 'oh.', 'not.', 'nothing.', 'something.', 'legendary.', 'narrows.', 'too.', 'time.', 'alone.', 'sense.', 'give.', 'here.', 'way.', 'change.', 'in.', 'tonight.', 'silent.', 'natural.', 'now.', 'eyes.', 'fun.', 'crawling.', 'up.', 'right.', 'movie show.', 'head.', 'other one.', 'heart.', 'over.', 'answers.', 'pay.', 'there.', 'know.', 'days.', 'broken.', 'serve.', 'die.', 'inside.', 'shout.', 'disease.', 'and.', 'trust.', 'off.', 'us.', 'mean.', 'feelin.', 'more.', 'today.', 'rise.', 'it.', 'anyone again.', 'below.', 'go.'}
+INFO:root:
+Shortest word: (1, 'afterwind.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (28, 'shake ya shake it like some honor just keep on politicians fancy water and then ill fight through my take our name in a light in that song.')
+INFO:root:Probability:   8.257878558079333e-27
+
+INFO:root:Repeats:       {'e.'}
+INFO:root:
+Shortest word: (1, 'e.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (1, 'e.')
+INFO:root:Probability:   1
+
+INFO:root:
+Shortest word: (1, 'i.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (1, 'i.')
+INFO:root:Probability:   1
+
+INFO:root:
+Shortest word: (1, '3.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (1, 'a.')
+INFO:root:Probability:   1
+
+INFO:root:Repeats:       {'lose it.', 'proof yeah.', 'radio station.', 'space between.', 'laugh jokes.', 'miss me.', 'real value.', 'burnt cd.', 'overtime hours.'}
+INFO:root:
+Shortest word: (2, 'an epiphany.')
+INFO:root:Probability:   0.143
+INFO:root:
+Longest word:  (2, 'your eyes.')
+INFO:root:Probability:   0.025
+
+INFO:root:Repeats:       {'rain man.', 'freezin cold.', 'target blaow.', 'talking about.', 'sex woo.', 'famous yeah.', 'baggage claim.', 'stark yeah.', 'save this.', 'doin this.', 'finger brrr.', 'rod rod.', 'sayin wow.', 'live that.'}
+INFO:root:
+Shortest word: (2, '767 man.')
+INFO:root:Probability:   1.0
+INFO:root:
+Longest word:  (2, 'zone zone.')
+INFO:root:Probability:   0.25
+
+INFO:root:Repeats:       {'inner voice.', 'worthless noises.', 'selfish stage.', 'loved you.', 'promised cause.'}
+INFO:root:
+Shortest word: (2, 'after me:.')
+INFO:root:Probability:   1.0
+INFO:root:
+Longest word:  (2, 'you give.')
+INFO:root:Probability:   0.012
+
+INFO:root:
+Shortest word: (3, 'away from heaven.')
+INFO:root:Probability:   0.06659999999999999
+INFO:root:
+Longest word:  (3, 'tears him down.')
+INFO:root:Probability:   0.5
+
+INFO:root:
+Shortest word: (3, 'lights yeah hoo.')
+INFO:root:Probability:   0.03
+INFO:root:
+Longest word:  (3, 'world that felt.')
+INFO:root:Probability:   0.009
+
+INFO:root:
+Shortest word: (3, 'cared for answers.')
+INFO:root:Probability:   0.013
+INFO:root:
+Longest word:  (3, 'rising vapors through.')
+INFO:root:Probability:   1.0
+
+INFO:root:
+Shortest word: (4, 'hometown when it all.')
+INFO:root:Probability:   0.0001782
+INFO:root:
+Longest word:  (4, 'songs on the ceiling.')
+INFO:root:Probability:   0.000162
+
+INFO:root:
+Shortest word: (4, 'feelings on lean cliché.')
+INFO:root:Probability:   0.002331
+INFO:root:
+Longest word:  (4, 'type of your stomach.')
+INFO:root:Probability:   0.00046499999999999997
+
+INFO:root:
+Shortest word: (4, 'black holes solid ground.')
+INFO:root:Probability:   0.75
+INFO:root:
+Longest word:  (4, 'yours does this world.')
+INFO:root:Probability:   0.003584
+
+INFO:root:
+Shortest word: (4, 'are on turning back.')
+INFO:root:Probability:   8.1e-05
+INFO:root:
+Longest word:  (4, 'thats left of faith.')
+INFO:root:Probability:   0.0007587
+
+INFO:root:
+Shortest word: (4, 'come out my friends.')
+INFO:root:Probability:   1.9733999999999998e-05
+INFO:root:
+Longest word:  (4, 'youll never played me.')
+INFO:root:Probability:   0.033350000000000005
+
+INFO:root:
+Shortest word: (4, 'beating heart of stone.')
+INFO:root:Probability:   0.0225
+INFO:root:
+Longest word:  (4, 'whole thing that song.')
+INFO:root:Probability:   0.002004
+
+INFO:root:
+Shortest word: (5, 'guitar around the overtime hours.')
+INFO:root:Probability:   0.0028599999999999997
+INFO:root:
+Longest word:  (5, 'tried bended knee hands-up prayin.')
+INFO:root:Probability:   0.5
+
+INFO:root:
+Shortest word: (5, '999 shit way you bleed.')
+INFO:root:Probability:   3.225e-05
+INFO:root:
+Longest word:  (5, 'until the green goblin hahahaha.')
+INFO:root:Probability:   0.0015
+
+INFO:root:
+Shortest word: (5, 'behind now or exit out.')
+INFO:root:Probability:   0.0008844480000000001
+INFO:root:
+Longest word:  (5, 'toast to tap into someone.')
+INFO:root:Probability:   0.003
+
+INFO:root:
+Shortest word: (6, 'with you give to miss me.')
+INFO:root:Probability:   1.7860000000000002e-07
+INFO:root:
+Longest word:  (6, 'with you give to miss me.')
+INFO:root:Probability:   1.7860000000000002e-07
+
+INFO:root:
+Shortest word: (6, 'bro its fuckin do fraud fraud.')
+INFO:root:Probability:   5.661e-05
+INFO:root:
+Longest word:  (6, 'spark it left like soup ayy.')
+INFO:root:Probability:   1.1e-05
+
+INFO:root:
+Shortest word: (6, '55 years from dawn to find.')
+INFO:root:Probability:   0.000185
+INFO:root:
+Longest word:  (6, 'time that dress hanging off track.')
+INFO:root:Probability:   5.150699999999999e-05
+
+INFO:root:
+Shortest word: (6, 'bm dick like all fed up.')
+INFO:root:Probability:   9.6e-05
+INFO:root:
+Longest word:  (6, 'woo made heart i hate you.')
+INFO:root:Probability:   4.390096e-06
+
+INFO:root:
+Shortest word: (6, 'asking fors a new to fear.')
+INFO:root:Probability:   3.822e-05
+INFO:root:
+Longest word:  (6, 'youve got left on the hill.')
+INFO:root:Probability:   2.188476e-06
+
+INFO:root:
+Shortest word: (7, 'bad i woulda drive on hangin around.')
+INFO:root:Probability:   8.890245e-06
+INFO:root:
+Longest word:  (7, 'such a sign with their own thing.')
+INFO:root:Probability:   1.6024008e-05
+
+INFO:root:
+Shortest word: (7, 'around and out turn around not around.')
+INFO:root:Probability:   6.18828189525e-05
+INFO:root:
+Longest word:  (7, 'used to know this a hoe shit.')
+INFO:root:Probability:   8.60139e-09
+
+INFO:root:
+Shortest word: (7, 'broke inside me again at their knees.')
+INFO:root:Probability:   2.6679973319999998e-06
+INFO:root:
+Longest word:  (7, 'wanna show me we can see you.')
+INFO:root:Probability:   4.47525e-09
+
+INFO:root:
+Shortest word: (8, 'high in time i woulda drive on tight.')
+INFO:root:Probability:   4.2985799999999994e-09
+INFO:root:
+Longest word:  (8, 'mother a perfect kiss is beating in closer.')
+INFO:root:Probability:   5.202600000000001e-07
+
+INFO:root:
+Shortest word: (8, '999 shit aint what kind of car ay.')
+INFO:root:Probability:   7.0308e-08
+INFO:root:
+Longest word:  (8, 'will black card and chill whats your pops.')
+INFO:root:Probability:   2.8096875e-06
+
+INFO:root:
+Shortest word: (8, 'drive by yourself short you dont choke me.')
+INFO:root:Probability:   6.383609999999999e-06
+INFO:root:
+Longest word:  (8, 'says do is upon us even looked up.')
+INFO:root:Probability:   9.83125e-06
+
+INFO:root:
+Shortest word: (9, 'be me are sisters and my eyes all night.')
+INFO:root:Probability:   1.99051776e-11
+INFO:root:
+Longest word:  (9, 'will ever was bout 55 years from your eyes.')
+INFO:root:Probability:   1.73784375e-07
+
+INFO:root:
+Shortest word: (9, 'ae say that you knew all bad for ya.')
+INFO:root:Probability:   1.5294156134399997e-09
+INFO:root:
+Longest word:  (9, 'uh you wish you owe a nigga keep it.')
+INFO:root:Probability:   1.5120000000000002e-11
+
+INFO:root:
+Shortest word: (9, 'cause ive done time we wasted every second dime.')
+INFO:root:Probability:   3.898125000000001e-07
+INFO:root:
+Longest word:  (9, 'wont stop stalling im really wanna bewitch you give.')
+INFO:root:Probability:   1.48149185184e-07
+
+INFO:root:
+Shortest word: (10, 'around this on still feel about how we laugh jokes.')
+INFO:root:Probability:   2.5159693125000002e-12
+INFO:root:
+Longest word:  (10, 'sadness the path youre doing with their babies after me.')
+INFO:root:Probability:   1.13369256e-06
+
+INFO:root:
+Shortest word: (10, '305 bitches all of me i came from beside me.')
+INFO:root:Probability:   2.291289740070912e-09
+INFO:root:
+Longest word:  (10, 'without a dark like me for my bitches gettin made.')
+INFO:root:Probability:   1.86965436e-12
+
+INFO:root:
+Shortest word: (10, 'hanging by yourself short you see another product of sense.')
+INFO:root:Probability:   6.812588592e-08
+INFO:root:
+Longest word:  (10, 'when they need shelter nothing normal when she has come.')
+INFO:root:Probability:   9.355888825919998e-09
+
+INFO:root:
+Shortest word: (11, 'champagne all your love is it says kane brown hair up.')
+INFO:root:Probability:   1.2498969599999997e-09
+INFO:root:
+Longest word:  (11, 'virgin mother a pabst blue eyes when all your eyes tonight.')
+INFO:root:Probability:   6.521482598400001e-11
+
+INFO:root:
+Shortest word: (11, 'bitches all i keep her get back is the scuds go.')
+INFO:root:Probability:   4.231504457856001e-14
+INFO:root:
+Longest word:  (11, 'suck me grapes maybach with all i said you no friends.')
+INFO:root:Probability:   1.8899603478000004e-13
+
+INFO:root:
+Shortest word: (11, 'made an angel in a sting in knots than to stay.')
+INFO:root:Probability:   5.673574368000001e-11
+INFO:root:
+Longest word:  (11, 'wanna love you hear me off baking soda and listen darlin.')
+INFO:root:Probability:   6.3138933e-11
+
+INFO:root:
+Shortest word: (12, 'aint even when i pinch myself good baby id play her job.')
+INFO:root:Probability:   1.2474303574218751e-11
+INFO:root:
+Longest word:  (12, 'yacht in mmmh and a star on top and just the room.')
+INFO:root:Probability:   8.390828159999999e-14
+
+INFO:root:
+Shortest word: (12, 'dreaming we were cool and i pick and out yeah skrrt skrrt.')
+INFO:root:Probability:   2.61617404291425e-12
+INFO:root:
+Longest word:  (12, 'smokin on sight yeah flood the bass is she said than done.')
+INFO:root:Probability:   7.294900889707203e-10
+
+INFO:root:
+Shortest word: (12, 'lying under the block when ashes fall the breaking scared of stone.')
+INFO:root:Probability:   2.9037960000000006e-10
+INFO:root:
+Longest word:  (12, 'lying under the block when ashes fall the breaking scared of stone.')
+INFO:root:Probability:   2.9037960000000006e-10
+
+INFO:root:
+Shortest word: (13, 'missing turns cause she wants she must get off a can see ya.')
+INFO:root:Probability:   1.4605861064062498e-12
+INFO:root:
+Longest word:  (13, 'watchin cigarettes burn burn burning man its always find those little pacsun underneath.')
+INFO:root:Probability:   4.133765421786e-09
+
+INFO:root:
+Shortest word: (13, 'coffee and you take the same songs in in to be hangin on.')
+INFO:root:Probability:   2.795275042560001e-17
+INFO:root:
+Longest word:  (13, 'tequila baby let the damn did what love show up car with anybody.')
+INFO:root:Probability:   8.992149e-14
+
+INFO:root:
+Shortest word: (13, 'bad i hold up girl lets lose all yours all we ended up.')
+INFO:root:Probability:   4.8201753600000005e-14
+INFO:root:
+Longest word:  (13, 'to hit me harder than to take that sun sink down six string.')
+INFO:root:Probability:   3.6855699890625e-13
+
+INFO:root:
+Shortest word: (13, 'chase a dime every promise you shouldve known the cover is the party.')
+INFO:root:Probability:   1.4373450000000003e-14
+INFO:root:
+Longest word:  (13, 'supposed to fill the words just flesh and it be holdin my arms.')
+INFO:root:Probability:   2.4551504999999995e-16
+
+INFO:root:
+Shortest word: (13, 'risk it and a hard charge it suck it blow in too many.')
+INFO:root:Probability:   5.0400875844e-16
+INFO:root:
+Longest word:  (13, 'stealin bikes to toppin i tell her part like bond number 9 nine.')
+INFO:root:Probability:   1.0017e-10
+
+INFO:root:
+Shortest word: (13, 'done or just a beating heart feel hunger i escape from me up.')
+INFO:root:Probability:   1.1490524353350003e-11
+INFO:root:
+Longest word:  (13, 'someone i cut until it and its coming up the product of trouble.')
+INFO:root:Probability:   5.128423944900797e-16
+
+INFO:root:
+Shortest word: (14, 'drawing me stay near as im twenty one of dogs and theres nothing new.')
+INFO:root:Probability:   1.1610562375440001e-14
+INFO:root:
+Longest word:  (14, 'treasure so good lord im such a life is history an unsupervised saturday night.')
+INFO:root:Probability:   7.623814769999997e-11
+
+INFO:root:
+Shortest word: (14, 'cherry pie so big l dont get back now that cause i gotta represent.')
+INFO:root:Probability:   2.429875438848e-14
+INFO:root:
+Longest word:  (14, 'though where i come she just wonder what you my brothers like moby uh.')
+INFO:root:Probability:   3.60117508608e-16
+
+INFO:root:
+Shortest word: (14, 'will make a wretched soul is giving ghettos that holds my wounds in doubt.')
+INFO:root:Probability:   4.0150694707200005e-14
+INFO:root:
+Longest word:  (14, 'will make a wretched soul is giving ghettos that holds my wounds in doubt.')
+INFO:root:Probability:   4.0150694707200005e-14
+
+INFO:root:
+Shortest word: (15, 'away when you around ride around the good as can love will ever settled down.')
+INFO:root:Probability:   2.230435500654749e-14
+INFO:root:
+Longest word:  (15, 'turned those bottles sitting up your fingers fit in in time and girl i kiddin.')
+INFO:root:Probability:   1.0551711006720004e-17
+
+INFO:root:
+Shortest word: (15, 'boys thats cool and out you do what can get back she throw up slow.')
+INFO:root:Probability:   1.3433898040026025e-16
+INFO:root:
+Longest word:  (15, 'portland you on top of car thats enough make these pussy got bitch bitch huh.')
+INFO:root:Probability:   1.554856212778596e-18
+
+INFO:root:
+Shortest word: (15, 'acting like you heard me what it so move mountains when theyre done time again.')
+INFO:root:Probability:   6.942745953e-16
+INFO:root:
+Longest word:  (15, 'wrong within the same old does not vibrating like some honor just gonna make out.')
+INFO:root:Probability:   6.289505965806701e-12
+
+INFO:root:Repeats:       {'name.', 'dash.', 'bales.', 'night.', 'high.', 'trying.', 'out.', 'top.', 'feelin.', 'tequila.', 'science.', 'style.', 'perfect.', 'oh.', 'it.', 'here.', 'rich.', 'epiphany.', 'speechless.', 'water.', 'homesick.', 'radio.', 'mess.', 'thing.', 'closer.', 'choir.', 'time.', 'johnnie walker healin.', 'repeat.', 'now.', 'do.', 'shift.', 'wants.', 'wins.', 'between.', 'hours.', 'under.', 'buzz to toe prada.', 'whiskey.', 'truth.', 'yeah.', 'buddies.', 'm p l e.', 'swear.', 'oooh.', 'cause.', 'you.', 'church.', 'string.', 'know.', 'back.', 'crazy.', 'holding.', 'gold.', 'gambling.', 'go.', 'walked glass barefooted.', 'california.', 'healin.', 'match.', 'ended up.', 'smile.', 'unsupervised saturday night.', 'anywhere.', 'life.', 'free.', 'skynyrd grin.', 'shot.', 'in.', 'overrated.', 'girl.', 'while.', 'honkytonk.', 'baby.', 'e.', 'love.', 'right.', 'long.', 'shirt.', 'unsaid.', 'room.', 'instagram.', 'prejudice.', 'trouble grin.', 'watered down.', 'fake id.', 'street.', 'ya.', 'one.', 'heaven.', 'prada.', 'minute.', 'on.', 'like.', 'overtime hours.', 'about.', 'hand.', 'sip.', 'stairs.', 'fire.', 'around.', 'mind.', 'man.', 'be.', 'heart.', 'road.', 'us.', 'were.', 'tonight.', 'lips.', 'say.', 'whispering goodnight.', 'me.', 'quit.', 'cutoff jeans.', 'coal.', 'down.'}
+INFO:root:
+Shortest word: (1, 'about.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (34, 'flame and coke sitting up head to vegas theyre screaming my breaths leaving this world spin on wheels rolling off the same one else could stay right here oh and maybe take me yeah.')
+INFO:root:Probability:   3.487281741123827e-32
+
+INFO:root:Repeats:       {'gonna take.', 'og huh.', 'friends.', 'taste.', 'other.', 'fly.', 'deep.', 'shit.', 'control.', 'yah.', 'ay ay.', 'bro.', 'real.', 'profane.', 'oh.', 'it.', 'for.', 'cha.', 'what.', 'ayy.', 'god.', 'thing.', 'everything.', 'jonas jonas.', 'this.', 'but.', 'with.', 'bed.', 'ring.', 'now.', 'rocking rock.', 'roof.', 'blaow.', 'nigga.', 'slayed.', 'uh.', 'fraud.', 'coupe.', 'rod.', 'yeah.', 'dope.', 'you.', 'back.', 'brrr.', 'though.', 'shoulders work.', 'go.', 'roll whoa.', 'okay.', 'ay.', 'no.', 'kickin.', 'fuck.', 'hoo.', 'sunflower.', 'nice.', 'huh.', 'o.', 'insane yeah.', 'cream.', 'that.', 'mirror ooh.', 'is.', 'mistakes.', 'true.', 'adobe uh.', 're rock.', 'dussé.', 'swish ayy.', 'bamba bitch.', 'quote.', 'changed.', 'read comments.', 'keeps.', 'rip.', 'room.', 'heels.', 'nat king cole.', 'trip.', 'one.', 'check.', 'head.', 'alone.', 'riding.', 'woo.', 'bitch.', 'always.', 'lord.', 'close.', 'about.', 'around.', 'mind.', 'money.', 'road.', 'damn.', 'smooth.', 'me.', 'ooh.', 'much.', 'down.'}
+INFO:root:
+Shortest word: (1, '300.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (31, 'hes still armed and we all up the coupe aint good girl watched me bustin out my bitch you baby dont hit my little lady drive a look at your own.')
+INFO:root:Probability:   1.384068726038686e-33
+
+INFO:root:Repeats:       {'boulevard.', 'kind.', 'rise.', 'too.', 'friends.', 'night.', 'ready.', 'side.', 'out.', 'natural.', 'two.', 'chime.', 'gave in.', 'feelin.', 'weight.', 'oh.', 'it.', 'broken.', 'for.', 'here.', 'thinking.', 'knowin.', 'hearts away.', 'line.', 'cutthroat.', 'strong.', 'alright.', 'something.', 'cut.', 'light.', 'crawling.', 'up.', 'air.', 'this.', 'time.', 'roll.', 'world.', 'now.', 'arcade.', 'dime.', 'stain.', 'through.', 'stars.', 'cold.', 'enough already now.', 'eyes.', 'ground.', 'needs.', 'iodine.', 'doll.', 'someone.', 'disease.', 'second dime.', 'sense.', 'surgery.', 'give.', 'da.', 'body.', 'dark.', 'falls.', 'shotgun.', 'you.', 'know.', 'back.', 'best.', 'confusion.', 'ooooooooh ooohh.', 'loud.', 'go.', '1334.', 'we.', 'away.', 'curb me.', 'ghost.', 'nothing.', '.', 'life.', 'thwart me.', 'plot.', 'america.', 'all.', 'trust.', 'crescendo.', 'clear.', 'that.', 'tattoo.', 'and.', 'knows.', 'baby.', 'pain.', 'frozen.', 'right.', 'lie.', 'long.', 'over.', 'first.', 'mantra.', 'legendary.', 'again.', 'fade.', 'empty shells.', 'clock strikes 9.', 'display.', 'release.', 'shadows.', 'wrong.', 'head.', 'darkness.', 'drops.', 'way.', 'upon.', 'game.', 'on.', 'end.', 'close.', 'around.', 'fire.', 'goodbye.', 'million degrees.', 'mind.', 'son.', 'door.', 'pay.', 'be.', 'heart.', 'more.', 'us.', 'off.', 'will.', 'tonight.', 'crown.', 'homocide.', 'midnight.', 'days.', 'me.', 'rain.', 'disappear.', 'change.', 'down.'}
+INFO:root:
+Shortest word: (1, '.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (20, 'till were kissing our name in that shit on that tear me taste ya shake it keeps on my heart.')
+INFO:root:Probability:   4.820047728949299e-19
+
+INFO:root:Repeats:       {'shot.', 'hero at home.', 'sleeve.', 'ashes.', 'guitar.', 'limb lines.', 'meet.', 'rocks.', 'holding.', 'thrown around.', 'oooh.', 'say.', 'ceiling.', 'me.', 'wait.', 'thing.', 'ten year old.', 'toe prada.', 'full tilt.', 'ya.', 'lights.', 'gettin over her.', 'value.', 'street.', 'remedy.', 'cant wait.', 'healin.', 'hallelujah.', 'marilyn.', 'johnnie walker healin.', 'fame.', 'away.', 'hallway.', 'cutoff jeans.', 'half cock full tilt.', 'mind.', 'trying.', 'dirt heat.', 'bass too yeah.', 'night.', 'long.', 'did.', 'surprised.', 'find.', 'money falling from heaven.', 'tv.', 'brand new.', 'm p l e.', 'wind blows me.', 'shirt.', 'her.', 'crazy.', 'wins.', 'perfect.', 'boats fishing limb lines.', 'secret.', 'no.', 'sleeve or keep it.', 'rollin stone.', 'streak run.', 'wound.', 'son.', 'porch.', 'ooh.', 'amazing grace.', 'not.', 'summer sophomore year.', 'know.', 'bone.', 'judging.', 'called.', 'at.', 'aisle.', 'underneath.', 'jar.', 'blackest night.', 'other.', 'make.', 'unholy water.', 'science.', 'floorboard.', 'party.', 'bed.', 'pretty feet high.', 'mama.', 'flame.', 'anywhere.', 'unbelievable.', 'radio.', 'single touch.', 'got.', 'tears.', 'sing along.', 'first time.', 'dirt.', '55 years from now.', 'sold.', 'sip.', 'there.', 'this.', 'listenin.', 'swear.', 'water.', 'grace.', 'between you hangin on.', 'speechless.', 'together grin.', 'same.', 'caseys.', 'heavy crown.', 'hauling them luke caseys.', 'now.', 'again.', 'millionaire.', 'believe.', 'gold.', 'want.', 'hand.', 'homesick.', 'gypsy.', 'asleep.', 'about.', 'amaze me.', 'hole.', 'alright.', 'quit.', 'nervous.', 'plans for anything.', 'knot.', 'georgia pines.', 'whiskey.', 'names shelia.', 'shining.', 'shoulders.', 'ious.', 'love.', 'drink.', 'hair.', 'e.', 'greener.', 'overtime hours.', 'midnight song.', 'caution.', 'bended knee hands-up prayin.', 'girl.', 'past.', 'next.', 'rich.', 'whoa.', 'clear.', 'rocket science.', 'fishing limb lines.', 'on.', 'song.', 'super star.', 'big ass buddies.', 'burnt cd.', 'hey.', 'see.', 'breath.', 'week.', 'stone.', 'mark.', 'town.', 'another drink.', 'unusual unbelievable.', 'damn.', 'hold.', 'space between.', 'around.', 'down.', 'one.', 'why.', 'looks good call.', 'overrated.', 'their own thing.', 'lead.', 'bar.', 'between.', 'di da.', 'like.', 'were.', 'playlist.', 'wild.', 'over.', 'lungs.', 'windows down.', 'tree.', 'sinks in.', 'knee hands-up prayin.', 'rain.', 'prejudice.', 'everything.', 'before you.', 'thief.', 'music.', 'line.', 'seems broken together again.', 'kinda country.', 'does.', 'unforgettable.', 'sleep.', 'faded.', 'everybodys gotta know.', 'together again.', 'lips.', 'shoulder.', 'together.', 'man.', 'stairs.', 'california.', 'feelin.', 'own thing.', 'up.', 'day.', 'honda.', 'through.', 'truth.', 'judge.', 'in.', 'ground.', 'do.', 'virgin mother a jukebox choir.', 'flashes now.', 'front porch.', 'going crazy.', 'dimes.', 'saved up.', 'knee.', 'old school radio station.', 'been.', 'roller gambling.', 'each other.', 'prada.', 'fight it.', 'choir.', 'plain.', 'morning.', 'forget.', 'wants.', 'kitchen.', 'world.', 'be.', 'shot last chance.', 'high.', 'peanut dust.', '150.', 'lottery.', 'dress.', 'blood.', 'floor.', 'wind.', 'devils hot coal.', 'minute.', 'free.', 'sleep in.', 'red honda.', 'burning man.', 'two.', 'golden road.', 'real value.', 'while.', 'count.', 'wont.', 'fly.', 'sexy.', 'road.', 'eyes.', 'uh.', 'loud.', 'coal.', 'room girl.', 'dont.', 'bucks.', '5.', 'far.', 'traffic jam.', 'name.', 'friends.', 'direction.', 'angels.', 'highway.', 'am.', 'instagram.', 'more.', 'night long.', 'stroke.', 'legally.', 'crowd.', 'wall.', 'strolled cross son.', 'dogs.', 'comin.', 'sixteen.', 'vinyl.', 'pines.', 'prayer.', 'lie.', 'hands-up prayin.', 'most.', 'brothers.', 'doubt.', 'goes.', 'us.', 'is.', 'desperate man.', 'shift.', 'little.', 'fast.', 'turned out.', 'job.', 'choosin.', 'perfume.', 'trouble.', 'at home.', 'gotta know.', 'soda.', 'country.', 'barefooted.', 'shine.', 'year.', 'cmon.', 'life.', 'daze.', 'repeat ayy.', 'times.', 'bales.', 'started.', 'history.', 'before.', 'home.', 'track.', 'repeat.', 'room.', 'whispering goodnight.', 'oh.', 'mans truck stop.', 'buddies.', 'weakness.', 'unsupervised saturday night.', 'touch.', 'you.', 'off.', 'time.', 'it.', 'yeah.', 'pavin.', 'drowned.', 'lost.', 'closer.', 'jam.', 'beat-up boots.', 'grin.', 'hours.', 'how.', 'feeling.', 'deep down.', 'alone with.', 'sure.', 'goin down.', 'id.', 'play her mine.', 'call.', 'all.', 'here.', 'right.', '55 years from everywhere.', 'arms.', 'row.', 'along.', 'runnin.', 'honkytonk.', 'grizzly wintergreen.', 'two three.', 'everywhere.', 'chances.', 'surface.', 'momma cries.', 'wondering when.', 'need.', 'aims.', 'forever.', 'hilt.', 'tight.', 'wine.', 'silver queen corn in tupelo.', 'end.', 'falls asleep.', 'losin.', 'tequila.', 'for.', 'band.', 'shelia.', 'baby.', 'bodys beside hers.', 'him down.', 'roll.', 'smile.', 'l e.', 'true.', 'sunrise sunburn sunset repeat.', 'out.', 'lakehouse.', 'uh uh.', 'new.', 'chance.', 'fall.', 'two stroke.', 'longer.', 'da.', 'mouth without you.', 'top.', 'round.', 'beat.', 'sunkist soda.', 'anything.', 'saturday night.', 'pier.', 'prayin.', 'sometimes.', 'hands.', 'run.', 'joshua tree.', 'dust.', 'met me.', 'hearted gypsy.', 'under.', 'fire.', 'smoke.', 'way.', 'door.', 'lay on losin.', 'boots.', 'heaven.', 'heart.', 'glasses now.', 'church.', 'tilt.', 'moments.', 'dusk.', 'proof yeah.', 'fine.', 'style.', 'string.', 'go.', 'yours.', 'trouble grin.', 'faith.', 'tonight.', 'that.', 'gambling.', 'rivers run.', 'watered down.', 'three.', 'side.', 'sunset repeat.', 'handle it.', 'dash.', 'veins.', 'always light caution.', 'vote.', 'fool for her.', 'hot coal.', 'gone.', 'bottle.', 'to.', 'skin.', 'unsaid.', 'songs.', 'over her.', 'falling from me.', 'mine.'}
+INFO:root:
+Shortest word: (1, '150.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (40, 'it good as im still shut down that didnt know what aint nothin but we aint gonna rock bottom to my friends are just laughing at her baby id shoot ya laugh about was lost in boats fishing limb lines.')
+INFO:root:Probability:   8.628710411269578e-40
+
+INFO:root:Repeats:       {'kitchen.', 'luxury.', 'want.', 'heavy crown.', 'morning.', 'rollin stone.', 'lucky man.', 'wintergreen.', 'out.', 'homesick.', 'blows me.', 'crown.', 'world.', 'waylon.', 'unusual unbelievable.', 'eighteen.', 'hit.', 'vote.', 'unsaid.', 'blood.', 'desert.', 'star.', 'hair.', 'fight it.', 'came around.', 'beat-up boots.', 'around.', 'hey.', 'eyes.', 'fortuneteller told me.', 'quit.', 'everywhere.', 'cmon.', 'precious than gold.', 'longer.', 'home.', 'couldnt keep it.', 'us.', 'shoulders.', 'light.', 'been.', 'saved up.', 'bone.', 'tears.', 'show.', 'first time.', 'after me.', 'over.', 'it.', 'shed sing along.', 'weeks.', 'week.', 'drove around.', 'life.', 'anywhere.', 'together grin.', 'do.', 'thrown around.', 'mama.', 'lottery.', 'sleep in.', 'to.', 'door.', 'count.', 'were under.', 'drowned.', 'peanut dust.', 'swearing on losin.', 'super star.', 'favorite songs.', 'smoke.', 'chances.', 'm p l e.', 'hallelujah.', 'jokes.', '5.', 'did.', 'live oak church.', 'rocket science.', 'lungs.', 'heart.', 'slow.', 'chords.', 'sexy.', 'jam.', 'sold.', 'gone.', 'shelia.', 'surface.', 'weakness.', 'bucks.', 'moments.', 'pacsun underneath.', 'honkytonk.', 'matter now.', 'you.', 'knee.', 'loud.', 'judging.', 'far away.', 'crowd.', 'shift.', 'sophomore year.', 'dress.', 'midnight song.', 'f 150.', 'again.', 'listenin.', 'live it.', 'him down.', 'got.', 'even fight it.', 'secret.', 'lock down.', 'call.', 'found little closer.', 'knees.', 'yall sing along.', 'tequila.', 'know.', 'speechless.', 'georgia pines.', 'next.', 'end.', 'year old.', 'were.', 'trouble.', 'unsupervised saturday night.', 'grace.', 'style.', 'knee hands-up prayin.', 'wins.', 'blue tacoma california.', 'fame.', 'away.', 'say.', 'station.', 'thing.', 'long.', 'prejudice.', 'livin for.', 'music.', 'goes.', 'ring.', 'not.', 'beside hers.', 'marilyn.', 'daze.', 'angels.', 'night.', 'perfume.', 'dont.', 'like.', 'tight.', 'boots.', 'watered down.', 'minute.', 'past.', 'this.', 'how.', 'different wall.', 'wild.', 'bed.', 'itd ever settled down.', 'toyota.', 'wants.', 'wall.', 'remedy.', 'heaven.', 'tractor hauling them georgia pines.', 'fine.', 'lost.', 'somebody brand new.', 'lines.', 'hearted gypsy.', 'make.', 'run.', 'ya.', 'am.', 'mind.', 'living in two.', 'judge.', 'prayin.', 'faith.', 'friday night.', 'twelve.', 'legally.', 'rocks.', 'jukebox choir.', 'sunburn sunset repeat.', 'for.', 'over her.', 'flashes now.', 'shine.', 'ooh.', 'forget.', 'comin.', 'exception.', 'flame.', 'another.', 'avenue.', 'gotta know.', 'caseys.', 'dimes.', 'floor.', 'tomorrow.', 'believe.', 'p l e.', 'wrong.', 'radio.', 'take.', 'holding.', 'direction.', 'lie.', 'truth.', 'more.', 'walker healin.', 'street.', 'tupelo.', 'barefooted.', 'song.', 'finally come over.', 'wait.', 'top.', 'find.', 'lotta pain.', 'choir.', 'new.', 'perfect.', 'damn.', 'rare.', 'lakehouse.', 'oh.', 'salt on tight.', 'jar.', 'bar.', 'year.', 'old.', 'gambling.', 'rain.', 'that.', 'job.', 'wind.', 'town.', 'doubt.', 'mans truck stop.', 'choosin.', 'me.', 'back.', 'nervous.', 'closer.', 'crazy.', 'all.', 'along.', 'church.', 'thousand feet high.', 'water.', 'new spark.', 'hallway.', 'texas plain.', 'wont.', 'match.', 'shot.', 'be.', 'free.', 'sixteen.', 'id.', 'sing along.', 'mine.', 'dollar signs.', 'healin.', 'joe.', 'here.', 'hand.', 'road.', 'forever.', 'aisle.', 'most.', 'after all.', 'describe.', 'ashes.', 'with.', 'farm town.', 'name.', 'beat.', 'uh.', 'feeling.', 'epiphany.', 'tonk angels.', 'songs.', 'does.', 'yeah.', 'under.', 'streak run.', 'fast.', 'baby.', 'golden road.', 'stone.', 'da.', 'right.', 'amaze me.', 'goodnight.', 'in.', 'hers.', 'yours.', 'before.', 'value.', 'l e.', 'go.', 'named waylon.', 'blackest night.', 'grin.', 'everything.', 'sleeve.', 'ol ten year old.', 'revlon red honda.', 'knot.', 'brothers.', 'hands-up prayin.', 'are.', 'instead of honky tonk angels.', 'turning sixteen.', 'seems broken together again.', 'ended up.', 'bottle.', 'rich.', 'good call.', 'eye.', 'different town.', 'whoa.', 'cherry on without you.', 'need.', 'miss me.', 'skin.', 'black top.', 'while.', 'california.', 'dogs.', 'sure.', 'together.', 'tv.', 'overrated.', 'girl.', 'is.', 'now.', 'two.', 'shining.', 'underneath.', 'e.', 'sorority t shirt.', 'share.', 'one.', 'prada.', 'names shelia.', 'radio station.', 'cutoff jeans.', 'dust.', 'man.', 'desperate man.', 'sky.', 'whispering goodnight.', 'fire.', 'science.', 'times.', 'drink.', 'swear.', 'shirt.', 'ious.', 'started.', 'other.', 'glasses now.', 'truck stop.', 'cigarettes burn out.', 'overtime hours.', 'anything shed sing along.', 'jackson.', 'kiddin.', 'there.', 'hello.', 'string.', 'hold.', 'mark.', 'millionaire.', 'alone with.', 'touch.', 'broken together again.', 'about.', 'play a di da.', 'smile.', 'sip.', 'skynyrd grin.', 'summer.', 'caution.', 'tonight.', 'stairs.', 'lights.', 'son.', 'oooh.', 'guitar.', 'fall.', 'down.', 'no.', 'unforgettable.', 'on.', 'three.', 'between.', 'ground.', 'breath.', 'will.', 'gold.', 'history.', 'bodys beside hers.', 'wine.', 'whiskey.', 'far.', 'ceiling.', 'country.', 'johnnie walker healin.', 'party.', 'hands.', 'runnin.', 'signs.', 'summer sophomore year.', 'chance.', 'up.', 'move it.', 'cause.', 'line.', 'cd.', 'drunk.', 'soda.', 'round.', 'see.', 'near.', 'low lights.', 'anything.', 'preach to find.', 'real value.', 'limb lines.', 'ditch.', 'sometimes.', 'until morning.', 'eighteen eighteen.', 'time.', 'repeat.', 'high.', 'little.', 'settled down.', 'lips.', 'walked glass barefooted.', 'hours.', 'feelin.', 'dog named waylon.', 'spare.', 'love.', 'needs sleep.', 'complain.', 'black hearted gypsy.', 'room.', 'oak church.', 'tilt.', 'losin.', 'way.', 'devils hot coal.', 'heavens in.', 'at.', 'land.', 'gypsy.', 'pavin.', 'highway.', 'row.', 'when.'}
+INFO:root:
+Shortest word: (1, '150.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (40, 'oh god knows where weve been down a stray bullet and all tangled up your kiss well have some hometown when i saw a cold one you were on my kiss and everybody doin anything to fill the front porch.')
+INFO:root:Probability:   5.430357802120435e-42
+
+INFO:root:Repeats:       {'knee hands-up prayin.', 'me.', 'perfume.', 'rocks.', 'everybodys gotta know.', 'live oak church.', 'mine.', 'anything.', 'hair.', 'anybody.', 'fast.', 'windows down.', 'unsupervised saturday night.', 'anywhere.', 'luxury.', 'goes.', 'did.', 'wound.', 'sip.', 'speechless.', 'lost.', 'guitar.', 'perfect.', 'p l e.', 'shoulders.', 'match.', 'far away.', 'flame.', 'drunk.', 'tacoma california.', 'smoke.', 'songs.', 'rivers run.', 'homesick.', 'around.', 'tonk angels.', 'together.', 'cries.', 'came around.', 'burnt cd.', 'road.', 'grin.', 'job done.', 'truth.', 'prejudice.', 'all.', 'places.', 'hey.', 'shed sing along.', 'up.', 'dirt.', 'radio.', 'fame.', 'millionaire.', 'school radio station.', 'dogs.', 'far.', 'town.', 'cutoff jeans.', 'laugh jokes.', 'faith.', 'ooh.', 'spark.', 'mama.', 'water.', 'touch.', 'why.', 'midnight song.', 'long.', 'vinyl.', 'ya.', 'ended up.', 'buzz to vote.', 'ayy.', 'one.', 'hold ya.', 'marilyn.', 'sold.', 'watered down.', 'angels.', 'playlist.', 'ten year old.', 'sing along.', 'damn truth.', 'hand.', 'dress.', 'skynyrd grin.', 'glass barefooted.', 'itll be.', 'rain.', 'wind.', 'hallelujah.', 'along.', 'stairs.', 'knees.', 'two.', 'hit.', 'down.', 'amazing grace.', 'love.', 'diddy drippin diamonds like me.', 'black hearted gypsy.', 'jam.', 'need.', 'tequila.', 'floorboard.', 'drowned.', 'band.', 'twelve.', 'exception.', 'lock eyes shining.', 'shine.', 'talking about.', 'bed.', 'that.', 'wild.', 'ashes.', 'gold.', 'repeat.', 'pavin.', 'legally.', 'song.', 'da.', 'morning.', 'desperate man.', 'friends.', 'remedy.', 'job.', 'shot.', 'f 150.', 'reason.', 'ground.', 'same.', 'not.', 'backyard dirt.', 'thing.', 'week.', 'thrown around.', 'hate.', 'barroom smoke.', 'country.', 'home.', 'oh.', 'each other.', 'complain.', 'fall.', 'three.', 'hundred proof yeah.', 'caution.', 'door.', 'knee.', 'with.', 'minute.', 'near.', 'aisle.', 'tilt.', 'times.', 'gypsy.', 'holding.', 'couple chords.', 'comin.', 'doubt.', 'honky tonk angels.', 'hallway.', 'avenue.', 'skin.', 'chords.', 'yeah.', 'walker healin.', 'unpredictable unforgettable.', 'our style yeah.', 'rocket science.', 'struggle.', 'e.', 'porch.', 'slow.', 'momma cries.', 'us.', 'curfew.', 'messed up next.', 'hold.', 'hours.', 'brothers.', 'describe.', 'secret.', 'before you.', 'rare.', 'stone.', 'old.', 'soul.', 'settled down.', 'uh uh.', 'you.', 'hands-up prayin.', 'wants.', 'unholy water.', 'heart.', 'say.', 'radio station.', 'close.', 'nervous.', 'unsaid.', 'shirt.', 'hero at me.', 'california.', 'music.', 'forever.', 'line.', 'done.', 'track.', 'tonight.', 'works best shot.', 'favorite songs.', 'sitting on rocks.', 'eyes.', 'time.', 'dusk.', 'see.', 'bare.', 'bone.', 'devils hot coal.', 'sixteen.', 'lungs.', 'somebody brand new.', 'faded.', 'do.', 'while.', 'nowhere truck stop.', 'saturday night.', 'empty glasses now.', 'station.', 'veins.', 'gone.', 'other.', 'new.', 'hot coal.', 'row.', 'light.', 'jeans.', 'back.', 'her.', 'bottle.', 'prayin.', 'miss me.', 'year old.', 'wall.', 'coming off on.', 'jokes.', 'judge.', 'neon church.', 'glasses now.', 'front row.', 'damn.', 'dimes.', 'benjamin for free.', 'healin.', 'behind.', 'sometimes.', 'make.', 'cause.', 'lucky man.', 'drink.', 'oooh.', 'joshua tree.', 'whiskey.', 'scars.', 'like.', 'it.', 'prada.', 'off.', 'this.', 'heaven.', 'blue tacoma california.', 'wait.', 'very rare.', 'string.', 'old town.', 'in.', 'jar.', 'everything.', 'at.', 'then gone again.', 'west coast line.', 'summer.', 'man.', 'epiphany.', 'loud.', 'knot.', 'walked glass barefooted.', 'street.', 'lights.', 'here.', 'true.', 'quit.', 'honkytonk.', 'on.', 'for each other.', 'hilt.', 'at me.', 'johnnie walker healin.', 'greener.', 'rollin stone.', 'beat-up boots.', 'pabst blue tacoma california.', 'longer.', 'roller gambling.', 'summer sophomore year.', 'gone again.', 'go.', 'fire.', 'arms.', 'mind.', 'tree.', 'him down.', 'asleep.', 'ring.', 'lines.', 'spare.', 'girl.', 'cheap.', 'dust.', 'toe prada.', 'lie.', 'will.', 'overrated.', 'been.', 'lips.', 'rich.', 'out.', 'strolled cross son.', 'alone with.', 'georgia pines.', 'uh.', 'round.', 'turn into trouble grin.', 'shining.', 'past.', 'hers.', 'feelin.', 'called.', 'how.', 'moments.', 'breath.', 'wins.', 'room.', 'heat.', 'party.', 'pain.', 'losin.', 'falls asleep.', 'when.', 'away.', 'am.', 'sure.', 'weakness.', 'hauling them luke caseys.', 'no.', 'started.', 'find.', 'run.', 'history.', 'meet.', 'lead.', 'thinking.', 'starts with me.', 'sleep.', 'style.', 'swear.', 'drawing me behind.', 'eighteen.', 'hands.', 'life.', 'surface.', 'call.', 'world.', 'next.', 'handle it.', 'shift baby.', 'got.', 'proof yeah.', 'jackson.', 'forget.', 'wine.', 'science.', 'plain.', 'beat.', 'sky.', 'end.', 'name.', 'free.', 'shelia.', 'back again.', 'night.', 'little.', 'smile.', 'sophomore year.', 'crazy.', 'trying.', 'day.', 'bar.', 'unbelievable.', 'lookin old town.', 'burning man.', 'right.', 'land.', 'baby.', 'until morning.', 'be.', 'over.', 'goin down.', 'mans truck stop.', 'girlfriends perfume.', 'there.', 'sunrise sunburn sunset repeat ayy.', 'yall sing along.', 'shoulder.', 'top.', 'son.', 'm p l e.', 'everywhere.', 'runnin.', 'alright.', 'church.', 'ious.', 'value.', 'know.', 'space between.', 'show.', 'us country.', 'tv.', 'boats fishing limb lines.', 'kiddin.', 'fly.', 'overtime hours.', 'between.', 'bodys beside hers.', 'choosin.', 'closer.', 'share.', 'musics loud.', 'again.', 'underneath.', 'honda.', 'bare feet high.', 'through.', 'whoa.', 'slower.', 'sleeve.', 'pacsun underneath.', 'yours.', 'about.', 'of.', 'now.', 'were.', 'tight.', 'want.', 'lets lose it.', 'dirt heat.', 'more.', 'chances.', 'whispering goodnight.', 'unusual unbelievable.', 'lakehouse.', 'chance.', 'lottery.', 'couple times.', 'choir.'}
+INFO:root:
+Shortest word: (1, '150.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (41, 'play her and watched all im what i want i knew it happens every move you singing bout 55 years from this road cred when im such a good girl it quite like half of home starin holes in this ring.')
+INFO:root:Probability:   1.5123066081973952e-41
+
+INFO:root:Repeats:       {'no.', 'two.', 'pain.', 'line.', 'hit.', 'time.', 'dress.', 'floor.', 'farm town.', 'perfume.', 'same.', 'dirt.', 'burnt cd.', 'georgia pines.', 'sip.', 'ashes.', 'drink.', 'hers.', 'miss me.', 'weakness.', 'daze.', 'most.', 'mind.', 'yall sing along.', 'caseys.', 'ended up.', 'millionaire.', 'longer.', 'her.', 'know.', 'cries.', 'thing.', 'were.', 'drunk.', 'name.', 'dimes.', 'f 150.', 'uh.', 'different wall.', 'car.', 'kiddin.', 'knees.', 'cheap.', 'be.', 'anything.', 'us country.', 'hundred proof yeah.', 'long.', 'mess.', 'watered down.', 'grown ass man.', 'along.', 'damn truth.', 'music.', 'hearted gypsy.', 'bottle.', 'sixteen.', 'over.', 'morning.', 'joshua tree.', 'sold.', 'low places.', 'shift.', 'to.', 'again.', 'while.', 'dreamed about.', 'moments.', 'gone.', 'see forever.', 'proof yeah.', 'comes back road.', 'ooh.', 'walked glass barefooted.', 'job.', 'pavin.', 'ol ten year old.', 'between.', 'kiss.', 'ceiling.', 'style.', 'behind.', 'bucks.', 'here.', 'lost everything.', 'waylon.', 'lakehouse.', 'in.', 'need.', 'curfew.', 'skynyrd grin.', 'arms.', 'complain.', 'son.', 'old.', 'high.', 'man.', 'california.', 'wine.', 'unpredictable unforgettable.', 'see.', 'love.', 'walker healin.', 'rollin stone.', 'blows me.', 'watched all about.', 'year.', 'town.', 'real value.', 'other.', 'gonna lie.', 'fame.', 'matter now.', 'did.', 'hours.', 'hands-up prayin.', 'judge.', 'yours.', 'free.', 'there.', 'repeat ayy.', 'laughin love wins.', 'this.', 'angels.', 'all.', 'drove around.', 'thief.', 'songs.', 'string.', 'why.', 'hands.', 'together.', 'wintergreen.', 'fallin off on.', 'wind.', 'school radio station.', 'road.', 'sexy.', 'sunkist soda.', 'find.', 'song.', 'boats fishing limb lines.', 't shirt.', 'call.', 'fire.', 'hallway.', 'ya down.', 'texas plain.', 'hey.', 'sunburn sunset repeat ayy.', 'prayer.', 'tomorrow.', 'whiskey.', 'baby.', 'honkytonk.', 'lungs.', 'greener.', 'roll.', 'unsaid.', 'grace.', 'sixteen wild ass buddies.', 'vote.', 'mine.', 'track.', 'seems broken together again.', 'lotta pain.', 'stone.', 'ground.', 'grin.', 'rivers run.', 'shed sing along.', 'world.', 'e.', 'luxury.', 'are.', 'wins.', 'bone.', 'one.', 'on.', 'started.', 'wrong.', 'shining.', 'bar.', 'places.', 'luke caseys.', 'homesick.', 'coal.', 'prejudice.', 'do.', 'chance.', 'reason why.', 'grizzly wintergreen.', 'me.', 'night.', 'country.', 'wound.', 'down.', 'lips.', 'were under.', 'three.', 'off.', 'jokes.', 'knee.', 'make.', 'sure.', 'tequila.', 'sky.', 'lead.', 'oak church.', 'beside hers.', 'us.', 'choir.', 'comin.', 'overrated.', 'heavens in.', 'bended knee hands-up prayin.', 'handle it.', 'day.', 'marilyn.', 'how.', 'boots.', 'kitchen.', 'oh.', 'brothers.', 'saturday night.', 'wondering when.', 'street.', 'value.', 'shirt.', 'own thing.', 'each other.', 'fade away yeah.', 'pines.', 'red honda.', 'run.', 'with.', 'heart.', 'playlist.', 'direction.', 'lie.', 'crown.', 'gambling.', 'life.', 'asleep.', 'shot.', 'musics over.', 'band.', 'fast.', 'cigarettes burn out.', 'ayy.', 'outside on.', 'when.', 'hair.', 'top.', 'two three.', 'match.', 'healin.', 'describe.', 'through.', 'him down.', 'p l e.', 'everything.', 'wants.', 'joe.', 'broken together again.', 'little.', 'big one.', 'barroom smoke.', 'beat-up boots.', 'sophomore year.', 'ditch.', 'lights.', 'every time.', 'crazy.', 'shine.', 'tilt.', 'minute.', 'losin.', 'called.', 'shoulders.', 'speechless.', 'slow.', 'up.', 'runnin.', 'trying.', 'forget.', 'tight.', 'm p l e.', 'porch.', 'go.', 'streak run.', 'holding.', 'knee hands-up prayin.', 'year old.', 'cutoff jeans.', 'stop.', 'sinks in.', 'faith.', 'doubt.', 'highway.', 'tonight.', 'wild.', 'eyes.', 'anywhere.', 'history.', 'does.', 'radio.', 'more.', 'girl.', 'judging.', 'water.', 'wall for yeah.', 'going crazy.', 'hello.', 'diamond mine.', 'hard.', 'chords.', 'heat.', 'cross son.', 'damn.', 'dust.', 'rich.', 'home.', 'amaze me.', 'everywhere.', 'you.', 'beautiful.', 'whispering goodnight.', 'gone again.', 'smile.', 'seems broken together grin.', 'back.', 'soul.', 'goodnight.', 'feelin.', 'twelve.', 'perfect.', 'fly.', 'about.', 'blood.', 'alright.', 'for.', 'wind blows me.', 'first time.', 'sometimes.', 'swear.', 'show.', 'da.', 'crowd.', 'backyard dirt.', 'reason.', 'heaven.', 'around.', 'id.', 'door.', 'that.', 'before.', 'could find.', 'row.', 'desert.', 'scars.', 'wait.', 'summer.', 'secret.', 'kinda country.', 'settled down.', 'round.', 'say.', 'mans truck stop.', 'yeah.', 'nervous.', 'lose it started.', 'girlfriends perfume.', 'fine.', 'pier.', 'sleeve.', 'count.', 'done.', 'surprised.', 'bodys beside hers.', 'ious.', 'out.', 'falling from heaven.', 'struggle.', 'came around.', 'limb lines.', 'dime every time.', 'open door.', 'prada.', 'week.', 'beat.', 'new.', 'goes.', 'musics loud.', 'ya.', 'oooh.', 'desperate man.', 'hallelujah.', 'choosin.', 'forever.', 'makes us country.', 'chances.', 'epiphany.', 'gold.', 'quit.', 'floorboard.', 'close.', 'end.', 'step side cover band.', 'next.', 'been.', 'whoa.', 'uh uh.', 'at.', 'past.', 'shades from me.', 'got.', 'jeans.', 'shift baby.', 'roller gambling.', 'laugh jokes.', 'pulls that dress.', 'names shelia.', 'church.', 'take.', 'party.', 'far.', 'friends.', 'tree.', 'traffic jam.', 'hold.', 'now.', 'overtime hours.', 'truth.', 'it.', 'hand.', 'side.', 'eye.', 'true.', 'closer.', 'momma cries.', 'am.', 'guitar.', 'far away.', 'room.', 'not.', 'like.', 'heavy crown.', 'before you.', 'eighteen yeah.', 'buttons like you.', 'midnight song.', 'bed.', 'listenin.', 'unholy water.', 'pacsun underneath.', 'lines.', 'wall.', 'right.', 'named waylon.', 'repeat.', 'share.'}
+INFO:root:
+Shortest word: (1, '150.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (36, 'a problem they look in all tongue tied and you always loved the bar when my drinkin buddies still shut down in colorado sky high that that heart skip skipping a time youre more than gold.')
+INFO:root:Probability:   1.3114109164804625e-37
+
+INFO:root:Repeats:       {'night.', 'morning.', '5.', 'go.', 'vinyl.', 'sleeve.', 'tight.', 'wine.', 'minute.', 'porch.', 'row.', 'weakness.', 'gone again.', 'hallelujah.', 'choosin.', 'crown.', 'wondering when.', 'dress.', 'slower.', 'golden road.', 'rocket science.', 'unforgettable.', 'tears him down.', 'radio.', 'without you.', 'tequila.', 'say.', 'do.', 'back.', 'no.', 'super star.', 'perfume.', 'caseys.', 'real value.', 'over.', 'why.', 'sixteen.', 'playlist.', 'ashes.', 'tomorrow.', 'healin.', 'one.', 'lakehouse.', 'heaven.', 'drunk.', 'asleep.', 'most.', 'yeah.', 'grace.', 'am.', 'up.', 'neon light.', 'to.', 'heat.', 'sky.', 'this.', 'came around.', 'yours.', 'falls asleep.', 'dont.', 'wrong.', 'tried bended knee hands-up prayin.', 'oooh.', 'cab tractor hauling them georgia pines.', 'hold.', 'bone.', 'next.', 'damn.', 'away.', 'mine.', 'shift baby.', 'anybody.', 'only thing goes.', 'ten year old.', 'johnnie walker healin.', 'there.', 'l e.', 'need.', 'see.', 'hole.', 'is.', 'rain.', 'crazy.', 'bed.', 'bar.', 'lines.', 'world.', 'perfect.', 'listenin.', 'hair.', 'shift.', 'two.', 'started.', 'describe.', 'kiddin.', 'live it.', 'out.', 'burnt cd.', 'desperate man.', 'goodnight.', 'brothers.', 'sunset repeat.', 'shelia.', 'between.', 'texas plain.', 'overrated.', 'bank its true.', 'backyard dirt.', 'unbelievable.', 'plain.', 'watered down.', 'it.', 'sunkist soda.', 'soul.', 'old.', 'fine.', 'smile.', 'three.', 'lights.', 'surprised.', 'angels.', 'make.', 'meet.', 'shining.', 'eyes.', 'her.', 'each other.', 'through.', 'ya.', 'floorboard.', 'road.', 'losin.', 'tonight.', 'quit.', 'light.', 'roll.', 'miss me.', 'single touch.', 'are.', 'dreamed about.', 'ooh.', 'greener.', 'mark.', 'dust.', 'way.', 'fortuneteller told me.', 'weeks.', 'smell of me.', 'hands.', 'surface.', 'speechless.', 'string.', 'black hearted gypsy.', 'were.', 'pavin.', 'hurts how.', 'school radio station.', 'flashes now.', 'wintergreen.', 'together.', 'whiskey.', 'live oak church.', 'amaze me.', 'repeat.', 'wind blows me.', 'long.', 'mama.', 'pines.', 'sold.', 'sinks in.', 'reason why.', 'beat.', 'on.', 'handle it.', 'sophomore year.', 'whoa.', 'science.', 'kiss.', 'gold.', 'year.', 'count.', 'comin.', 'land.', 'toyota.', 'runnin.', 'doubt.', 'lotta pain.', 'station.', 'beside hers.', 'roller gambling.', 'lead.', 'you.', 'right.', 'hot coal.', 'hand.', 'sometimes.', 'goes.', 'oooh oooh.', 'room.', 'waylon.', 'cause.', 'streak run.', 'wind.', 'track.', 'low places.', 'lie.', 'other.', 'spark.', 'gone.', 'marilyn.', 'thief.', 'light caution.', 'eye.', 'lock down.', 'grin.', 'tilt.', 'be.', 'shoulder.', 'cd.', 'history.', 'keep hangin around.', 'job.', 'hearted gypsy.', 'call.', 'far.', 'faith.', 'jokes.', 'buddies.', 'does.', 'honkytonk.', 'shed sing along.', 'party crowd.', 'scars.', 'told me.', 'curfew.', 'aims.', 'pacsun underneath.', 'reason.', 'heart.', 'deep down.', 'while.', 'sweet luxury.', 'fame.', 'kinda country.', 'fast.', 'faded.', 'under.', 'instagram.', 'that.', 'forever.', 'choir.', 'end up.', 'holding.', 'gambling.', 'called.', 'settled down.', 'will.', 'bodys beside hers.', 'makin trouble.', 'me.', 'sip.', 'prada.', 'prayer.', 'breath.', 'daze.', 'dime every hit.', 'blows me.', 'value.', 'sunrise sunburn sunset repeat ayy.', 'fly.', 'high.', 'here.', 'down.', 'babies after all.', 'millionaire.', 'sleep.', 'california.', 'party.', 'desert.', 'year old.', 'life.', 'bales.', 'limb lines.', 'lights on.', 'jackson.', 'us.', 'water.', 't shirt.', 'm p l e.', 'style.', 'mama take chances.', 'along.', 'love.', 'judge.', 'wants.', 'done.', 'alright.', 'cigarettes burn out.', 'soda.', 'different town.', 'free.', 'truth.', 'town.', 'stone.', 'feelin.', 'thrown around.', 'everything.', 'unsaid.', 'da.', 'rocks.', 'fall.', 'wife at all.', 'dogs.', 'itd ever settled down.', 'man.', 'song.', 'sneakin in peanut dust.', 'bucks.', 'jar.', 'feet high.', 'find.', 'makes us country.', 'oh.', 'summer sophomore year.', 'how.', 'rivers run.', 'believe.', 'wild streak run.', 'hard.', 'names shelia.', 'tree.', 'glasses now.', 'turning sixteen.', 'baby.', 'day.', 'girl tell everybody doin their own thing.', 'shoulders.', 'trouble grin.', 'shine.', 'time.', 'mind.', 'rich.', 'even trying.', 'name.', 'true.', 'wins.', 'anywhere.', 'remedy.', 'oak church.', 'for.', 'hours.', 'country.', 'together grin.', 'dash.', 'with.', 'hands-up prayin.', 'ground.', 'hallway.', 'tv.', 'drowned.', 'prejudice.', 'songs.', 'dirt.', 'got.', 'lips.', 'swear.', 'peanut dust.', 'band.', 'rare.', 'around.', 'run.', 'spare.', 'unsupervised saturday night.', 'ious.', 'all.', 'e.', 'goin down.', 'wild.', 'girlfriends perfume.', 'more.', 'glass barefooted.', 'drunk me.', 'guitar.', 'georgia pines.', 'shot.', 'luxury.', 'wall.', 'know.', 'chances.', 'thing.', 'again.', 'door.', 'closer.', 'church.', 'ayy.', 'nervous.', 'top.', 'wound.', 'friday night.', 'la a backyard dirt.', 'secret.', 'wait.', 'slow.', 'now.', 'hit.', 'son.', 'crowd.', 'another.', 'aisle.', 'summer.', 'yall sing along.', 'street.', 'chance.', 'want.', 'wont.', 'shirt.', 'lucky man.', 'times.', 'walked glass barefooted.', 'clear.', 'fire.', 'broken together again.', 'knee.', 'drove around.', 'friends.', 'not.', 'caution.', 'bottle.', 'music.', 'bass too yeah.', 'hey.', 'floor.', 'bended knee hands-up prayin.', 'twelve.', 'round.', 'sexy.', 'share.', 'joe.', 'forget.', 'in.', 'seems broken together grin.', 'thinking.', 'honda.', 'pain.', 'ended up.', 'sunset repeat ayy.', 'ditch.', 'about.', 'eighteen.', 'from heaven.', 'homesick.', 'girl.', 'f 150.', 'direction.', 'star.'}
+INFO:root:
+Shortest word: (1, '150.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (41, 'kisses fall to the path youre fixing up the stars we cared about college and theres a time youre fixing up with a minute since the hell itd ever i might as one and then id just a life super star.')
+INFO:root:Probability:   4.880685302956543e-42
+
+INFO:root:Repeats:       {'closer.', 'hometown truth.', 'times.', 'hands.', 'tacoma california.', 'black top.', 'kitchen.', 'heaven.', 'handle it.', 'count.', 'other.', 'radio.', 'when.', 'di da.', 'see.', 'girlfriends perfume.', 'this.', 'soda.', 'us country.', 'more.', 'doubt.', 'music.', 'eyes.', 'again.', 'grizzly wintergreen.', 'call.', 'single touch.', 'sold.', 'almost drowned.', 'girls go out.', 'lie.', 'heat.', 'bales.', 'rain.', 'bone.', 'high.', 'brothers.', 'sure.', 'whoa.', 'you.', 'fire.', 'lips.', 'heavy crown.', 'supposed to this.', 'car.', 'honkytonk.', 'faded.', 'street.', 'picking up here.', 'anything.', 'home.', 'honky tonk angels.', 'be.', 'hilt.', 'four thousand feet high.', 'wall.', 'floor.', 'party.', 'roller gambling.', 'fine.', 'bottle.', 'tonk angels.', 'far.', 'called.', 'her.', 'tv.', 'scars.', 'how.', 'behind.', 'end.', 'struggle.', 'dash.', 'that.', 'make.', 'ious.', 'song.', 'station.', 'glasses now.', 'prayin.', 'bucks.', 'first time.', 'friends.', 'caseys.', 'unsaid.', 'oak church.', 'mama.', 'desperate man.', 'shirt.', 'burnt cd.', 'healin.', 'beat-up boots.', 'walked glass barefooted.', 'tears.', 'flashes now.', 'remedy.', 'mine.', 'comin.', 'life.', 'line.', 'uh.', '5.', 'name.', 'buddies.', 'hand.', 'lights.', 'listenin.', 'millionaire.', 'quit.', 'wind blows me.', 'got.', 'cheap.', 'minute.', 'california.', 'itll be.', 'bodys beside hers.', 'knot.', 'us.', 'front porch.', 'miss me.', 'true.', 'same bar.', 'nervous.', 'eyed joe.', 'vinyl.', 'cmon.', 'prada.', 'me.', 'ya.', 'space between.', 'sunkist soda.', 'ashes.', 'ended up.', 'two.', 'know know.', 'dogs.', 'does.', 'weakness.', 'judge.', 'trouble grin.', 'sunrise sunburn sunset repeat.', 'wintergreen.', 'everything.', 'top.', 'tequila.', 'secret.', 'between.', 'fast.', 'cab tractor hauling them luke caseys.', 'sixteen.', 'match.', 'star.', 'for.', 'jokes.', 'dust.', 'caution.', 'out.', 'around.', 'hole.', 'underneath.', 'wild.', 'describe.', 'sleeve.', 'about you.', 'now.', 'perfume.', 'rivers run.', 'world.', 'it.', 'before.', 'low places.', 'mark.', 'grace.', 'wine.', 'pushing my arms.', 'off.', 'better than gold.', 'cd.', 'jar.', 'overrated.', 'aisle.', 'hurts how.', 'super star.', 'on.', 'whispering goodnight.', 'boots.', 'choir.', 'take.', 'traffic jam.', 'value.', 'share.', 'gambling.', 'loud.', 'old.', 'three.', 'hours.', 'damn.', 'shed sing along.', 'dusk.', 'chances.', 'fly.', 'water.', 'watchin rivers run.', 'time.', 'itd ever did.', 'reason.', 'spark.', 'church.', 'kiss.', 'crowd.', 'f 150.', 'right.', 'angels.', 'cutoff jeans.', 'runnin.', 'need.', 'ayy.', 'unpredictable unforgettable.', 'away yeah.', 'forever.', 'thing.', 'jam.', 'dress.', 'light.', 'limb lines.', 'over.', 'prejudice.', 'marilyn.', 'country.', 'pier.', 'anywhere.', 'fight it.', 'drove around.', 'smile.', 'summer sophomore year.', 'here.', 'jeans.', 'mans truck stop.', 'met me.', 'jukebox choir.', 'gypsy.', 'goes.', 'lakehouse.', 'wait.', 'id.', 'knee.', 'thief.', 'falls asleep.', 'luke caseys.', 'dreamed about.', 'sip.', 'were.', 'uh uh.', 'alone with.', 'skynyrd grin.', 'knees.', 't shirt.', 'under.', 'strolled cross son.', 'one.', 'most.', 'style.', 'watered down.', 'overtime hours.', 'toyota.', 'diamond mine.', 'gold.', 'backyard dirt.', 'luxury.', 'roll.', 'unusual unbelievable.', 'hit.', 'complain.', 'all.', 'surface.', 'man.', 'beat.', 'yours.', 'homesick.', 'up.', 'twelve.', 'another round.', 'exception.', 'wind.', 'about.', 'bed.', 'side.', 'town.', 'dog named waylon.', 'ol ten year old.', 'clear.', 'free.', 'thinking.', 'ooh.', 'job.', 'trying.', 'blue tacoma california.', 'believe.', 'stone.', 'beautiful.', 'goodnight.', 'sometimes.', 'before you.', 'cries.', 'mind.', 'spare.', 'm p l e.', 'hair.', 'needs sleep.', 'tried bended knee hands-up prayin.', 'drunk.', 'sophomore year.', 'no.', 'gotta know.', 'talking about.', 'rare.', 'da.', 'makin trouble.', 'lottery.', 'love.', 'together.', 'chance.', 'l e.', 'grab my arms.', 'georgia pines.', 'more times roll.', 'lost everything.', 'door.', 'along.', 'truth.', 'hers.', 'oh.', 'long.', 'pavin.', 'am.', 'started.', 'ring.', 'far away.', 'week.', 'road.', 'rocket science.', 'to.', 'eighteen yeah.', 'go.', 'perfect.', 'glass barefooted.', 'playlist.', 'show.', 'going crazy.', 'heart.', 'everywhere.', 'off track.', 'rocks.', 'shoulders.', 'touch.', 'wants.', 'heavens in.', 'new.', 'with.', 'room.', 'too yeah.', 'hello.', 'same.', 'goin down.', 'did.', 'e.', 'morning.', 'whiskey.', 'thousand feet high.', 'everyday here tonight.', 'streak run.', 'waylon.', 'veins.', 'alright.', 'hallway.', 'gone.', 'baby.', 'ground.', 'not.', 'say.', 'unholy water.', 'pain.', 'dances aint judging.', 'tight.', 'next to complain.', 'vote.', 'tilt.', 'porch.', 'know.', 'musics loud.', 'feelin.', 'summer.', 'kiddin.', 'holding.', 'pacsun underneath.', 'crazy.', 'sexy.', 'pines.', 'repeat.', 'highway.', 'little.', 'tomorrow.', 'dimes.', 'history.', 'names shelia.', 'in.', 'proof yeah.', 'skin.', 'like.', 'chords.', 'night.', 'settled down.', 'drink.', 'ten year old.', 'next.', 'girl.', 'swear.', 'sleep in.', 'bar.', 'grin.', 'sing along.', 'while.', 'yall sing along.', 'rich.', 'day.', 'tonight.', 'beside hers.', 'holdin my bottle.', 'lungs.', 'flame.', 'guitar.', 'signs.', 'own thing.', 'shoulder.', 'losin.', 'row.', 'smoke.', 'of.', 'hot coal.', 'do.', 'tractor hauling them georgia pines.', 'sixteen sixteen.', 'away.', 'forget.', 'wins.', 'thrown around.', 'hey.', 'watch tv.', 'speechless.', 'golden road.', 'run.', 'momma cries.', 'each other.', 'choosin.', 'find.', 'lead.', 'unbelievable.', 'shot.', 'tree.', 'yeah.', 'shift.', 'son.', 'down.', 'hold.', 'oooh.', 'blows me.', 'off on.', 'leaving this curfew.', 'amazing grace.', 'string.', 'livin for.', 'together again.', 'lucky man.'}
+INFO:root:
+Shortest word: (1, '150.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (40, 'wake up just that boy id shoot ya laugh about you might be sitting up my eyes they got some people talk i remember how the driveway yacht in late smelling like spinning you make her kisses fall to see.')
+INFO:root:Probability:   1.7532969736452177e-41
+
+INFO:root:Repeats:       {'sing along.', 'old.', 'rocks.', 'go.', 'spare.', 'sixteen.', 'different wall.', 'high.', 'crown.', 'lights.', 'fast.', 'car.', 'far.', 'caseys.', 'more.', 'son.', 'know.', 'town.', 'minute.', 'two.', 'bone.', 'mine.', 'tacoma california.', 'beat.', 'sip.', 'joshua tree.', 'honkytonk.', 'barroom smoke.', 'repeat.', 'there.', 'star.', 'unholy water.', 'science.', 'rare.', 'west coast line.', 'pass in it.', 'healin.', 'instagram.', 'years from everywhere.', 'marilyn.', 'row.', 'radio.', 'when.', 'thing.', 'why.', 'tight.', 'crowd.', 'surprised.', 'rocket science.', 'peanut dust.', 'tree.', 'away.', 'way.', 'looking out ive got.', 'limb lines.', 'three.', 'traffic jam.', 'after me.', 'desperate man.', 'faith.', 'momma cries.', 'be.', 'here.', 'off.', 'door.', 'prada.', 'next.', 'choir.', 'soul.', 'sunkist soda.', 'hold.', 'right.', 'along.', 'cross son.', 'one.', 'ol ten year old.', 'life.', 'closer.', 'around.', 'job.', 'loud.', 'sometimes.', 'hey.', 'bare.', 'porch.', 'jar.', 'land.', 'nervous.', 'you.', 'near.', 'benz in closer.', 'handle it.', 'in.', 'say.', 'ditch.', 'named waylon.', 'flame.', 'rich.', 'aisle.', 'vote.', 'eyes.', 'millionaire.', 'wind blows me.', 'song.', 'breath.', 'goes.', 'that.', 'feet high.', 'unforgettable.', 'sunburn sunset repeat.', 'grizzly wintergreen.', 'heart.', 'not.', 'while.', 'time.', 'all.', 'comin.', 'outside on.', 'streak run.', 'angels.', 'it.', 'brothers.', 'neon church.', 'hilt.', 'were.', 'e.', 'truth.', 'wait.', 'times.', 'beat-up boots.', 'lungs.', 'tears.', 'light.', 'barefooted.', 'desert.', 'up.', 'grown ass buddies.', 'street.', 'reason why.', 'far away.', 'me.', 'world.', 'end.', 'damn.', 'sexy.', 'name.', 'knot.', 'ground.', 'waylon.', 'job done.', 'beautiful.', 'fame.', 'watered down.', 'unsaid.', 'mess.', 'twelve.', 'pines.', 'mandarin high roller gambling.', 'burning man.', 'fake id.', 'stone.', 'drunk.', 'listenin.', 'knee hands-up prayin.', 'grace.', 'long.', 'fire.', 'fine.', 'ashes.', 'goodnight.', 'ya.', 'forever.', 'fly.', 'unsupervised saturday night.', 'hands-up prayin.', 'struggle.', 'is.', 'boots.', 'year old.', 'did.', 'fight it.', 'rain.', 'wall.', 'back.', 'baby.', 'sinks in.', 'honda.', 'hallway.', 'style yeah.', 'judge.', 'knees.', 'lie.', 'tonight.', 'string.', 'another drink.', 'touch.', 'home.', 'drink.', 'came around.', 'got.', 'new.', 'p l e.', 'bed.', 'mind.', 'mama.', 'want.', 'do.', 'glasses now.', 'heavens in.', 'hometown truth.', 'see.', 'jam.', 'dress.', 'top.', 'smoke.', 'alone with.', 'heaven.', 'highway.', 'free.', 'down.', 'shelia.', 'grin.', 'oooh.', 'girl.', 'tractor hauling them bales.', 'prayer.', 'no.', 'pretty feet high.', 'forget.', 'walked glass barefooted.', 'shoulder.', 'cd.', 'behind.', 'shot.', 'lines.', 'hit.', 'sunset repeat ayy.', 'dusk.', 'm p l e.', 'songs.', 'wine.', 'make.', 'toyota.', 'guitar.', 'stop.', 'heat.', 'between.', 'blood.', 'holding.', 'prejudice.', 'walker healin.', 'thousand feet high.', 'space between.', 'perfume.', 'lips.', 'f 150.', 'tomorrow.', 'devils hot coal.', 'wont.', 'crazy.', 'drowned.', 'scars.', 'proof yeah.', 'heavy crown.', 'secret.', 'sunburn sunset repeat ayy.', 'doubt.', 'him down.', 'golden road.', 'meet.', 'drove around.', 'hello.', 'ious.', 'ring.', 'complain.', 'be good call.', 'road.', 'cutoff jeans.', 'hours.', 'feelin.', 'year.', 'last chances.', 'watch tv.', 'dimes.', 'close.', 'overrated.', 'different town.', 'shoulders.', 'stroke.', 'music.', 'bar.', 'whiskey.', 'gold.', 'veins.', 'asleep.', 'ten year old.', 'station.', 'lead.', 'how.', 'sure.', 'hers.', 'unbelievable.', 'hand.', 'first time.', 'exception.', 'love.', 'wild.', 'describe.', 'california.', 'quit.', 'roller gambling.', 'now.', 'on.', 'goin down.', 'floorboard.', 'tv.', 'playlist.', 'ayy.', 'to.', 'started.', 'run.', 'bales.', 'blackest night.', 'called me more.', 'are.', 'through.', 'with.', 'fall.', 'called.', 'other.', 'saturday night.', 'eye.', 'whoa.', 'thinking.', 'over.', 'windows down.', 'sold.', 'man.', 'reason.', 'value.', 'id.', 'drink does.', 'buddies.', 'homesick.', 'will.', 'waiting too yeah.', 'skynyrd grin.', 'avenue.', 'wind.', 'greener.', 'told me.', 'moments.', 'style.', 'for.', 'wants.', 'strolled cross son.', 'surface.', 'weakness.', 'pavin.', 'gambling.', 'before.', 'perfect.', 'hurts how.', 'gone.', 'need.', 'am.', 'jokes.', 'mark.', 'together.', 'losin.', 'her.', 'l e.', 'us.', 'midnight song.', 'chances.', 'luxury.', 'this.', 'runnin.', 'wins.', 'saved up.', 'dont.', 'bottle.', 'knee.', 'skin.', 'party.', 'about.', 'feel cheap.', 'hands.', 'slower.', 'da.', 'jeans.', 'hole.', 'alright.', 'hearted gypsy.', 'most.', 'drunk me.', 'hair.', 'yeah.', 'tequila.', 'unpredictable unforgettable.', 'blows me.', 'before you.', 'water.', 'round.', 'speechless.', 'uh.', 'shirt.', 'choosin.', 'anything.', 'sophomore year.', 'uh uh.', 'little.', 'smile.', 'half cock full tilt.', 'find.', 'call.', 'church.', 'trouble.', 'girlfriends perfume.', 'hot coal.', 'each other.', 'eighteen yeah.', 'without us country.', 'chance.', 'lost everything.', 'di da.', 'sleeve.', 'under.', 'anywhere.', 'swear.', 'country.', 'again.', 'tonk angels.', 'history.', 'room.', 'matter now.', 'hauling them georgia pines.', 'musics over.', 'line.', 'dust.', 'shift.', 'week.', 'morning.', 'green eyed joe.', 'cab tractor hauling them georgia pines.', 'night.', 'landed on without us country.', 'livin for.', 'miss me.', 'stairs.', 'hundred proof yeah.', 'another.', 'wild streak run.', 'friends.', 'joe.', 'cries.', 'out.', 't shirt.', 'truck stop.'}
+INFO:root:
+Shortest word: (1, '5.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (32, 'smokin memory it goes but baby thats hard to keep on an open up off the side of my place is missing heaven but when she follows me pull off your skin.')
+INFO:root:Probability:   3.775151741612207e-35
+
+INFO:root:Repeats:       {'need.', 'burnt cd.', 'at.', 'home.', 'hair.', 'scars.', 'holding.', 'uh uh.', 'jam.', 'losin.', 'week.', 'why.', 'backyard dirt.', 'want.', 'somebody brand new.', 'caseys.', 'arms.', 'ayy.', 'truth.', 'top.', 'pines.', 'meet.', 'ashes.', 'di da.', 'crown.', 'another.', 'yours.', 'sunkist soda.', 'shelia.', 'alone with.', 'anything.', 'no.', 'bucks.', 'used to.', 'new.', 'e.', 'prejudice.', 'porch.', 'anywhere.', 'smoke.', 'sunset repeat.', 'kiddin.', 'lucky man.', 'greener.', 'again.', 'sky.', 'yeah.', 'judging.', 'long.', 'brothers.', 'pavin.', 'next.', 'signs.', 'radio station.', 'gone.', 'lungs.', 'wherever the playlist.', 'hit.', 'unusual unbelievable.', 'street.', 'say.', 'sing along.', 'chances.', 'us.', 'curfew.', 'direction.', 'music.', 'stop.', 'over.', 'forever.', 'shut down bass too yeah.', 'is.', 'about.', 'highway.', 'star.', 'make.', 'damn.', 'fire.', 'style.', 'ious.', 'runnin.', 'hot coal.', 'secret.', 'prada.', 'smile.', 'summer.', 'turned out.', 'johnnie walker healin.', 'moments.', 'about you.', 'wound.', 'radio.', 'feelin.', 'of.', 'slower.', 'shirt.', 'uh.', 'diamond mine.', 'thief.', 'it.', 'california.', 'ditch.', 'history.', 'bar.', 'handle it.', 'avenue.', 'prayin.', 'shining.', 'underneath.', 'waiting too yeah.', 'how.', 'find.', 'repeat.', 'mine.', 'heavy crown.', 'doubt.', 'wind blows me.', 'speechless.', 'mark.', 'more.', 'fast.', 'up.', 'cause heavens in.', 'beat.', 'right.', 'go.', 'complain.', 'breath.', 'dollar signs.', 'mind.', 'hours.', 'unsaid.', 'am.', 'tried bended knee hands-up prayin.', 'cause.', 'shift baby.', 'jackson.', 'all.', 'dog named waylon.', 'sometimes.', 'fishing limb lines.', 'years from jackson.', 'mama.', 'way.', 'whispering goodnight.', 'your friends.', 'walker healin.', 'between.', 'here.', 'traffic jam.', 'wild.', 'spark.', 'hands-up prayin.', 'everywhere.', 'boots.', 'bodys beside hers.', 'wants.', 'ring.', 'baby.', 'hate.', 'daze.', 'ooh.', 'pacsun underneath.', 'lottery.', 'heaven.', 'boats fishing limb lines.', '150.', 'repeat ayy.', 'bit longer.', 'very far.', 'until morning.', 'lotta pain.', 'cab tractor hauling them georgia pines.', 'ended up.', 'wine.', 'dusk.', 'joshua tree.', 'wall for free.', 'old.', 'back.', 'babies after all.', 'knees.', 'stairs.', 'row.', 'eyes shining.', 'swinging on losin.', 'overtime hours.', 'sexy.', 'name.', 'bed.', 'heat.', 'day.', 'millionaire.', 'amazing grace.', 'alright.', 'turning back.', 'beat-up boots.', 'call.', 'this.', 'true.', 'lost.', 'west coast wind.', 'skin.', 'me.', 'party.', 'us country.', 'wind.', 'streak run.', 'beside hers.', 'choosin.', 'friends.', 'dreamed about.', 'settled down.', 'goes.', 'amaze me.', 'eighteen.', 'light.', 'toe prada.', 'watch tv.', 'when.', 'value.', 'beautiful crazy sometimes.', 'ten year old.', 'toyota.', 'around.', 'trying.', 'along.', 'l e.', 'buddies.', 'oh.', 'time.', 'vote.', 'texas plain.', 'own thing.', 'waylon.', 'judge.', 'limb lines.', 'loud.', 'free.', 'aims.', 'morning.', 'before.', 'dress.', 'one.', 'crazy.', 'down.', 'desperate man.', 'epiphany.', 'wall.', 'mess.', 'livin for.', 'comin.', 'healin.', 'faded.', 'remedy.', 'other.', 'now.', 'unholy water.', 'times.', 'everything.', 'shine.', 'blows me.', 'gambling.', 'under.', 'hold.', 'sip.', 'country.', 'honkytonk.', 'ground.', 'saved up.', 'man.', 'bottle.', 'black top.', 'together.', 'honky tonk angels.', 'tonight.', 'sorority t shirt.', 'ol ten year old.', 'listenin.', 'girlfriends perfume.', 'eye.', 'started.', 'to.', 'lips.', 'barefooted.', 'glasses now.', 'sold.', 'door.', 'job.', 'song.', 'two.', 'match.', 'whoa.', 'sun goin down.', 'science.', 'fame.', 'hand.', 'hallway.', 'away yeah.', 'stone.', 'single touch.', 'ass buddies.', 'tomorrow.', 'string.', 'high.', 'world.', 'hers.', 'eyes.', 'believe.', 'georgia pines.', 'night.', 'track.', 'in.', 'peanut dust.', 'shed sing along.', 'ceiling.', 'quit.', 'outside on.', 'shoulder.', 'gone again.', 'wait.', 'together grin.', 'drove around.', 'school radio station.', 'on.', 'hard.', 'hair up.', 'cutoff jeans.', 'p l e.', 'fall.', 'dont.', 'before you.', 'station.', 'coast line.', 'son.', 'town.', 'soul.', 'like.', 'year old.', 'roll.', 'see.', 'miss me.', 'chords.', 'round.', 'lakehouse.', 'floorboard.', 'line.', 'fighting for anything.', 'oak church.', 'kitchen.', 'heart.', 'three.', 'swinging on hangin around.', 'barroom smoke.', 'tilt.', 'hands.', 'an epiphany.', 'knot.', 'roller gambling.', 'tree.', 'sleeve.', 'plain.', 'water.', 'side.', 'life.', 'hey.', 'told me.', 'two three.', 'sure.', 'while.', 'angels.', 'stroke.', 'out.', 'shoulders.', 'sunburn sunset repeat ayy.', 'ya.', 'church.', 'marilyn.', 'girl.', 'do.', 'did.', 'bone.', 'mouth without you.', 'overrated.', 'grin.', 'been.', 'not.', 'end up.', 'tacoma california.', 'vinyl.', 'places.', 'little.', 'low lights.', 'were.', 'rocks.', 'beautiful.', 'car.', 'with.', 'saturday night.', 'got.', 'that.', 'fight it.', 'crowd.', 'luxury.', 'twelve.', 'lines.', 'choir.', 'rich.', 'for.', 'jokes.', 'sixteen.', 'for tomorrow.', 'surface.', 'cmon.', 'minute.', 'spare.', 'bales.', 'golden road.', 'tequila.', 'wins.', 'shot.', 'drunk.', 'laugh jokes.', 'gold.', 'you.', 'her.', 'dust.', 'guitar.', 'sweet luxury.', 'homesick.', 'da.', 'tight.', 'momma cries.', 'sleep.', 'know.', 'forget.', 'same.', 'love.', 'room.', 'take.', 'lie.', 'weakness.', 'oooh.', 'far.', 'nervous.', 'black hearted gypsy.', 'thing.', 'goodnight.', 'grizzly wintergreen.', 'closer.', 'drowned.', 'run.', 'cheap.', 'dirt.', 'off.', 'him down.', 'wont.', 'be.', 'swear.', 'lights.', 'drink does.', 'clear.', 'are.', 'wrong.', 'names shelia.', 'whiskey.'}
+INFO:root:
+Shortest word: (1, '150.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (36, 'my hand to an open up and everything you leave on still the king of girls go nowhere fast lets tell everybody knew id found little friday night a woman with some folks ask me believe.')
+INFO:root:Probability:   3.820152550148657e-40
+
+INFO:root:Repeats:       {'station.', 'hearted gypsy.', 'texas plain.', 'off.', 'deep down.', 'cotton eyed joe.', 'babys got lost.', 'id.', 'want.', 'school radio station.', 'sunkist soda.', 'dog named waylon.', 'brand new.', 'did.', 'rollin stone.', 'eye.', 'speechless.', 'close.', 'shoulder.', 'homesick.', 'oooh.', 'jackson.', 'coal.', 'science.', 'until morning.', 'treasure so very rare.', 'road.', 'heat.', 'blood.', 'every hit.', 'hilt.', 'wins.', 'time.', 'radio station.', 'cab tractor hauling them luke caseys.', 'midnight song.', 'hallelujah.', 'hallway.', 'unsupervised saturday night.', 'unsaid.', 'avenue.', 'do.', 'tears.', 'jam.', 'slow.', 'kitchen.', 'him down.', 'am.', 'girlfriends perfume.', 'feeling.', 'world.', 'dash.', 'angels.', 'up.', 'marilyn.', 'on.', 'wind blows me.', 'weakness.', 'sixteen sixteen.', 'bed.', 'about.', 'long.', 'us.', 'year.', 'da.', 'hey.', 'over.', 'exception.', 'guys that space between.', 'overrated.', 'sorority t shirt.', 'wall.', 'oak church.', 'ya.', 'goes.', 'grin.', 'sip.', 'burning man.', 'big one.', 'barefooted.', 'along.', 'traffic jam.', 'bare.', 'musics over.', 'came around.', 'past.', 'boots.', '150.', 'scars.', 'lie.', 'guitar.', 'beat.', 'glass barefooted.', 'limb lines.', 'burn out.', 'caution.', 'gold.', 'ground.', 'different town.', 'that.', 'wont.', 'job.', 'town.', 'repeat.', 'flashin light caution.', 'mine.', 'millionaire.', 'take.', 'her.', 'street.', 'healin.', 'lost.', 'flashes now.', 'fight it.', 'di da.', 'friends.', 'judge.', 'gettin over you.', 'in.', 'shed sing along.', 'space between.', 'handle it.', 'string.', 'walker healin.', 'hands-up prayin.', 'boats fishing limb lines.', 'struggle.', 'between.', 'true.', 'peanut dust.', 'daze.', 'eighteen.', 'thing.', 'country.', 'through.', 'fire.', 'dress.', 'like.', 'how.', 'gone.', 'staring at home.', 'come over.', 'little.', 'girl.', 'cd.', 'sophomore year.', 'forget.', 'next.', 'real value.', 'dogs.', 'trying.', 'life.', 'drove around.', 'whole lotta pain.', 'now.', 'love.', 'wrong.', 'needs pavin.', 'old.', 'job done.', 'doubt.', 'describe.', 'goodnight.', 'super star.', 'rocks.', 'bone.', 'oh.', 'tequila.', 'drink.', 'cred back road.', 'is.', 'hands.', 'truth.', 'hours.', 'track.', 'benjamin for anything.', 'falls asleep.', 'bottle.', 'clear.', 'tilt.', 'are.', 'party.', 'spare.', 'it.', 'watch tv.', 'all.', 'fast.', 'hard.', 'sold.', 'free.', 'car.', 'longer.', 'mama.', 'unforgettable.', 'history.', 'arms.', 'top.', 'wanna go.', 'one.', 'curfew.', 'behind.', 'wine.', 'needs sleep.', 'hot coal.', 'rain.', 'sometimes.', 'cheap.', 'choir.', 'seems broken together grin.', 'whispering goodnight.', 'faith.', 'bended knee hands-up prayin.', 'georgia pines.', 'radio.', 'unholy water.', 'kiddin.', 'comin.', 'wait.', 'lucky man.', 'smile.', 'new.', 'tree.', 'm p l e.', 'twelve.', 'lungs.', 'empty glasses now.', 'heart.', 'wind.', 'itll be.', 'know.', 'me.', 'tonight tonight.', 'waylon.', 'slower.', 'dusk.', 'there.', 'baby.', 'e.', 'when.', 'dimes.', 'year old.', 'right.', 'back.', 'aw so gold.', 'wants.', 'hit.', 'hand.', 'thief.', 'rich.', 'sleeve.', 'why.', 'grown ass buddies.', 'rare.', 'works best shot.', 'lights.', 'shoulders.', 'round.', 'outside on.', 'knot.', 'pain.', 'this.', 'tonight.', 'wild.', 'stone.', 'playlist.', 'fine.', 'breath.', 'cmon.', 'knee.', 'summer sophomore year.', 'ditch.', 'feelin.', 'minute.', 'songs.', 'pines.', 'each other.', 'man.', 'runnin.', 'barrel bourbon on ya.', 'rides the water.', 'gambling.', 'desperate man.', 'sing along.', 'moments.', 'got.', 'repeat ayy.', 'morning.', 'see.', 'shot.', 'not.', 'loud.', 'man uh.', 'judging.', 'names shelia.', 'out.', 'done.', 'secret.', 'here.', 'anybody.', 'alright.', 'lakehouse.', 'yours.', 'saturday night.', 'heavy crown.', 'floor.', 'make.', 'knees.', 'luke caseys.', 'heaven.', 'floorboard.', 'front porch.', 'more.', 'light.', 'vote.', 'fall.', 'stroke.', 'were.', 'knows it.', 'room.', 'jokes.', 'summer.', 'aw so yall sing along.', 'whiskey.', 'day.', 'sky.', 'eyes.', 'forever.', 'beside hers.', 'room girl.', 'anywhere.', 'before you.', 'told me.', 'will.', 'perfect.', 'knee hands-up prayin.', 'made love.', 'week.', 'go.', 'hold.', 'sleep.', 'yall sing along.', 'style.', 'tomorrow.', 'ceiling.', 'shift.', 'hole.', 'other.', 'makin trouble.', 'say.', 'end.', 'far.', 'asleep.', 'single touch.', 'skynyrd grin.', 'prejudice.', 'church.', 'everywhere.', 'lead.', 'pavin.', 'prayin.', 'with.', 'hair.', 'dreamed about.', 'bar.', 'ring.', 'name.', 'be.', 'cutoff jeans.', 'sure.', 'wall for yeah.', 'dirt.', 'holding.', 'crazy.', 'nervous.', 'need.', 'low lights.', 'swear.', 'water.', 'johnnie walker healin.', 'six string.', 'mess.', 'near.', 'quit.', 'smoke.', 'closer.', 'surface.', 'yeah.', 'music.', 'whoa oh.', 'desert.', 'touch.', 'sun goin down.', 'chances.', 'mark.', 'away.', 'losin.', 'lips.', 'again.', 'fame.', 'land.', 'down.', 'choosin.', 't shirt.', 'roller gambling.', 'chords.', 'three.', 'hello.', 'honkytonk.', 'toe prada.', 'saved up.', 'dont.', 'bales.', 'ashes.', 'call.', 'two.', 'run.', 'tv.', 'gone again.', 'golden road.', 'honky tonk angels.', 'very rare.', 'you.', 'night.', 'overtime hours.', 'sunburn sunset repeat ayy.', 'sixteen.', 'friday night.', 'tacoma california.', 'around.', 'california.', 'of.', 'first time.', 'whoa.', 'roll.', 'caseys.', 'burnt cd.', 'way.', 'hate.', 'ious.', 'dust.', 'together.', 'different wall.', 'barroom smoke.', 'gypsy.', 'history an epiphany.', 'while.', 'find.', 'windows down.', 'no.', 'thrown around.', 'ooh.', 'mind.', 'ten year old.', 'stairs.', 'porch.', 'brothers.', 'lines.', 'side.', 'backyard dirt.', 'perfume.', 'amazing grace.', 'skin.', 'song.', 'value.', 'damn.', 'before.', 'uh.', 'shirt.'}
+INFO:root:
+Shortest word: (1, '150.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (35, 'promise you swear you around ride around and watched all thats how im thinking bout what i did something to keep on to make a trail through my mouth without us for your lips yeah.')
+INFO:root:Probability:   2.239246793124326e-36
+
+INFO:root:Repeats:       {'band.', 'reason.', 'jar.', 'corn in luxury.', 'tequila.', 'lines.', 'georgia pines.', 'between.', 'tacoma california.', 'two.', 'high.', 'next.', 'dust.', 'overtime hours.', 'stroke.', 'anybody.', 'signs.', 'burning man.', 'twelve.', 'another.', 'spare.', 'gambling.', 'walker healin.', 'tonight.', 'used to.', 'that.', 'too far.', 'watered down.', 'listenin.', 'brand new.', 'us.', 'wind.', 'summer.', 'wrong.', 'end.', 'shoulder.', 'lakehouse.', 'amazing grace.', 'girl.', 'unsupervised saturday night.', 'sound so yall sing along.', 'through.', 'oooh.', 'dusk.', 'wins.', 'style yeah.', 'any room girl.', 'thrown around.', 'sunburn sunset repeat ayy.', 'past.', 'see.', 'honda.', 'super star.', '150.', 'backyard dirt.', 'match.', 'legally.', 'wine.', 'pacsun underneath.', 'dreamed about.', 'oh.', 'party.', 'longer.', 'playlist.', 'why.', 'choosin.', 'soul.', 'tilt.', 'sold.', 'feeling.', 'kiddin.', 'scars.', 'rocks.', 'dog named waylon.', 'back.', 'hand.', 'jam.', 'turning sixteen.', 'round.', 'desperate man.', 'fight it.', 'eyes.', 'places.', 'name.', 'id.', 'bodys beside hers.', 'direction.', 'music.', 'heavens in.', 'wants.', 'dance i did.', 'tree.', 'row.', 'glasses now.', 'life.', 'faith.', 'line.', 'bass too yeah.', 'ya.', 'when.', 'handle it.', 'not.', 'e.', 'whiskey.', 'choir.', 'beat.', 'sometimes.', 'bar.', 'while.', 'anything shed sing along.', 'everything.', 'luxury.', 'bank its unusual unbelievable.', 'sinks in.', 'free.', 'thing.', 'value.', 'forever.', 'shirt.', 'sun goin down.', 'heart.', 'oooh oooh.', 'again.', 'home.', 'blood.', 'judging.', 'far away.', 'dash.', 'hit.', 'country.', 'bales.', 'over.', 'struggle.', 'lights.', 'repeat.', 'limb lines.', 'other.', 'believe.', 'far.', 'unsaid.', 'wings on fire.', 'songs.', 'night.', 'grizzly wintergreen.', 'ground.', 'smoke.', 'heavy crown.', 'each other.', 'losin.', 'shoulders.', 'road.', 'anywhere.', 'guitar.', 'got.', 'fire.', 'shelia.', 'it.', 'this.', 'vote.', 'names shelia.', 'whoa.', 'heaven.', 'named waylon.', 'same.', 'to.', 'nervous.', 'there.', 'long.', 'roll.', 'make.', 'barroom smoke.', 'brothers.', 'stone.', 'away.', 'healin.', 'damn.', 'hurt-like-hell for each other.', 'wild streak run.', 'deep down.', 'old.', 'alright.', 'da.', 'cd.', 'real value.', 'honky tonk angels.', 'on.', 'town.', 'miss me.', 'know.', 'ass man.', 'overrated.', 'staring at home.', 'sunkist soda.', 'flashes now.', 'judge.', 'station.', 'homesick.', 'tomorrow.', 'watch tv.', 'church.', 'love.', 'shift.', 'surface.', 'cmon.', 'in.', 'chords.', 'crazy.', 'weeks.', 'now.', 'little.', 'slower.', 'wont.', 'tonk angels.', 'heat.', 'water.', 'doubt.', 'time.', 'of.', 'two stroke.', 'runnin.', 'sixteen.', 'swear.', 'side.', 'uh.', 'closer.', 'thinking.', 'times roll.', 'day.', 'one.', 'pavin.', 'street.', 'm p l e.', 'wait.', 'sleeve.', 'two three.', 'amaze me.', 'glass barefooted.', 'desert.', 'perfect.', 'wall.', 'aims.', 'yeah.', 'more.', 'crowd.', 'man.', 'laugh jokes.', 'beside hers.', 'track of whiskey.', 'plain.', 'for.', 'mind.', 'three.', 'drowned.', 'hate.', 'soda.', 'are.', 'top.', 'hold.', 'find.', 'bartender preach to each other.', 'wild.', 'drunk me.', 'chances.', 'truth.', 'sixteen yeah.', 'history.', 'fishing limb lines.', 'quit.', 'door.', 'smile.', 'out in boats fishing limb lines.', 'world.', 'morning.', 'everywhere.', 'l e.', 'new.', 'drunk.', 'until morning.', 'porch.', 'chance.', 'f 150.', 'style.', 'mama.', 'holding.', 'been.', 'wound.', 'am.', 'hours.', 'fast.', 'near.', 'no.', 'science.', 'hey.', 'turned out.', 'lucky man.', 'front row.', 'hands.', 'ashes.', 'rocket science.', 'angels.', 'along.', 'room.', 'do.', 'sunburn sunset repeat.', 'bucks.', 'ended up.', 'before.', 'sunset repeat.', 'exception.', 'describe.', 'were.', 'bed.', 'flashin light caution.', 'out.', 'sip.', 'devils hot coal.', 'grin.', 'be.', 'loud.', 'hangin around.', 'kinda country.', 'p l e.', 'mountains four thousand feet high.', 'fame.', 'sure.', 'trying.', 'remedy.', 'texas plain.', 'her.', 'shot.', 'how.', 'honkytonk.', 'skynyrd grin.', 'hands-up prayin.', 'off.', 'knee.', 'girlfriends perfume.', 'reason why.', 'slow.', 'shining.', 'pier.', 'around.', 'me.', 'buddies.', 'hundred proof yeah.', 'coast line.', 'bone.', 'cutoff jeans.', 'california.', 'jokes.', 'truck stop.', 'like.', 'land.', 'sleep in.', 'car.', 'all.', 'unpredictable unforgettable.', 'feelin.', 'bottle.', 'unbelievable.', 'broken together grin.', 'need.', 'greener.', 'underneath.', 'true.', 'song.', 'dirt.', 'gotta know.', 'down.', 'sing along.', 'mine.', 'lips.', 'did.', 'walked glass barefooted.', 'old town.', 'forget.', 'comin.', 'knees.', 'aisle.', 'rare.', 'with.', 'pines.', 'toyota.', 'single touch.', 'goes.', 'our summer.', 'unforgettable.', 'way.', 'gone again.', 'lost everything.', 'prejudice.', 'watchin rivers run.', 'gone.', 'musics loud.', 'right.', 'prayin.', 'beautiful.', 'behind.', 'here.', 'job.', 'boots.', 'done.', 'lie.', 'radio.', 'breath.', 'week.', 'light.', 'rich.', 'up.', 'rivers run.', 'run.', 'crown.', 'congregation of faith.', 'fall.', 'speechless.', 'cheap.', 'hallway.', 'ditch.', 'dress.', 'gold.', 'knot.', 'dimes.', 'hilt.', 'hair.', 'grace.', 'one two stroke.', 'mess.', 'curfew.', 'sure living in time comin.', 'millionaire.', 'string.', 'you.', 'weakness.', 'times.', 'secret.', 'prada.', 'go.', 'unholy water.', 'stop.', 'blue tacoma california.', 'joshua tree.', 'burnt cd.', 'best shot.', 'ious.', 'waylon.', 'gonna lie.', 'tight.', 'highway.', 'tupelo.', 'itll be.', 'about.', 'fine.', 'say.', 'friends.', 'baby.', 'ayy.', 'flame.', 'johnnie walker healin.', 'minute.', 'lungs.', 'marilyn.', 'luke caseys.', 'bended knee hands-up prayin.'}
+INFO:root:
+Shortest word: (1, '150.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (42, 'neons buzzing good morning eyes that simple s i aint green eyed girl dont you make a can hang with everything ive never leave a spark inside of backsliders just stay another day till im drinking wine with that i go cause.')
+INFO:root:Probability:   3.831131567937863e-39
+
+INFO:root:Repeats:       {'alone with.', 'scotch on instagram.', 'door.', 'stars we dont.', 'station.', 'shot.', 'again.', 'road.', 'nervous.', 'kitchen.', 'unusual unbelievable.', 'doubt.', 'everywhere.', 'her.', 'truth.', 'wall.', 'hate.', 'around.', 'see.', 'rich.', 'bales.', 'rollin stone.', 'perfect.', 'drink.', 'car.', 'quit.', 'me.', 'fishing limb lines.', 'drowned.', 'homesick.', 'judge.', 'most.', 'amaze me.', 'anything.', 'world.', 'prayin.', 'dimes.', 'hand.', 'hello.', 'pines.', 'sunrise sunburn sunset repeat ayy.', 'ditch.', 'hands-up prayin.', 'called.', 'tree.', 'luke caseys.', 'be.', 'bar.', 'plain.', 'watered down.', 'ayy.', 'next.', 'lead.', 'another.', 'direction.', 'mine.', 'shift baby.', 'girlfriends perfume.', 'shoulder.', 'chance.', 'remedy.', 'minute.', 'string.', 'dust.', 'tight.', 'flashes now.', 'broken together again.', 'losin.', 'need.', 'saturday night.', 'match.', 'texas plain.', 'eye.', 'knee hands-up prayin.', 'now.', 'heavens in.', 'longer.', 'e.', 'weakness.', 'ashes.', 'toe prada.', 'times.', 'country.', 'oooh.', 'forever.', 'town.', 'hallway.', 'ya.', 'share.', 'mind.', 'buddies.', 'three.', 'far.', 'friends.', 'on.', 'bone.', 'lights.', 'wait.', 'together again.', 'sleeve.', 'crown.', 'summer.', 'sixteen yeah.', 'caseys.', 'history.', 'sixteen sixteen.', 'lie.', 'music.', 'itll be.', 'six string.', 'handle it.', 'goes.', 'burnt cd.', 'us.', 'heart.', 'off.', 'up.', 'true.', 'this.', 'turned out.', 'chances.', 'shift.', 'alright.', 'legally.', 'about.', 'moments.', 'nowhere truck stop.', 'roll.', 'baby.', 'low lights.', 'forget.', 'close.', 'over.', 'very rare.', 'not.', 'soul.', 'fame.', 'leavin me behind.', 'describe.', 'believe.', 'before you.', 'morning.', 'sip.', 'love.', 'caution.', 'loud.', 'walked glass barefooted.', 'ground.', 'knot.', 'fight it.', 'will.', 'time.', 'millionaire.', 'l e.', 'lock down.', 'job.', 'why.', 'lines.', 'luxury.', 'day.', 'smoke.', 'kiddin.', 'eyed joe.', 'brothers.', 'song.', 'california.', 'there.', 'places.', 'jeans.', 'boats fishing limb lines.', 'hearted gypsy.', 'used to.', 'feeling.', 'oak church.', 'comes back road.', 'thing.', 'signs.', 'dress.', 'black top.', 'grin.', 'wound.', 'rocks.', 'life.', 'make.', 'whiskey.', 'choir.', 'lips.', '5.', 'down.', 'breath.', 'uh.', 'say.', 'sixteen.', 'value.', 'secret.', 'saved up.', 'dash.', 'right.', 'between.', 'super star.', 'star.', 'yeah.', 'wintergreen.', 'limb lines.', 'cmon.', 'pier.', 'knee.', 'for.', 'curfew.', 'porch.', 'am.', 'did.', 'vinyl.', 'hold.', 'comin.', 'oh.', 'boots.', 'track.', 'ring.', 'know.', 'healin.', 'gone.', 'chords.', 'pain.', 'yours.', 'style.', 'struggle.', 'trouble.', 'thrown around.', 'beat.', 'twelve.', 'started.', 'front porch.', 'thinking.', 'came around.', 'miss me.', 'hard.', 'real value.', 'faded.', 'old.', 'stairs.', 'prada.', 'together.', 'count.', 'told me.', 'speechless.', 'uh uh.', 'exception.', 'overrated.', 'sing along.', 'here.', 'swear.', 'aims.', 'run.', 'skin.', 'smile.', 'bed.', 'round.', 'were.', 'do.', 'sorority t shirt.', 'instagram.', 'new.', 'tv.', 'marilyn.', 'shine.', 'honkytonk.', 'blows me.', 'unsaid.', 'trying.', 'having your mama.', 'ass buddies.', 'sunkist soda.', 'hands.', 'sophomore year.', 'tomorrow.', 'crowd.', 't shirt.', 'it.', 'mark.', 'tonight.', 'name.', 'does.', 'other.', 'crazy.', 'street.', 'seems broken together again.', 'to.', 'girl.', 'top.', 'hey.', 'repeat.', 'thief.', 'trouble grin.', 'everything.', 'grizzly wintergreen.', 'greener.', 'da.', 'crisp new spark.', 'like.', 'barefooted.', 'night.', 'sinks in.', 'go.', 'eyes.', 'feelin.', 'hours.', 'beside hers.', 'devils hot coal.', 'is.', 'fast.', 'ceiling.', 'year old.', 'skynyrd grin.', 'gambling.', 'dirt.', 'wins.', 'hall of time.', 'home.', 'two.', 'choosin.', 'how.', 'jam.', 'answer loves an unsupervised saturday night.', 'sold.', 'anywhere.', 'wind blows me.', 'radio station.', 'angels.', 'step side cover band.', 'shoulders.', 'lungs.', 'ious.', 'whoa.', 'grace.', 'along.', 'water.', 'back.', 'hair.', 'fine.', 'heaven.', 'in.', 'yall sing along.', 'runnin.', 'burning man.', 'tupelo.', 'tears.', 'done.', 'peanut dust.', 'golden road.', 'hit.', 'whole lotta pain.', 'man.', 'stone.', 'more.', 'wild.', 'closer.', 'week.', 'georgia pines.', 'sleep in.', 'joe.', 'out.', 'wants.', 'guitar.', 'burn out.', 'right now.', 'm p l e.', 'long.', 'no.', 'free.', 'tequila.', 'mama.', 'fire.', 'room.', 'got.', 'take chances.', 'you.', 'lose it out.', 'bottle.', 'space between.', 'desperate man.', 'sunset repeat ayy.', 'while.', 'cheap.', 'church.', 'gold.', 'with.', 'all.', 'sure.', 'one.'}
+INFO:root:
+Shortest word: (1, '5.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (44, 'or your kisses ill give them cool cool cool cool sheets where weve been and took turns cause she wants she dont push me hit the king of what youre gonna leave a minute since you already know and my treasure so diamond mine.')
+INFO:root:Probability:   1.4313933452972228e-43
+
+INFO:root:Repeats:       {'two.', 'in.', 'bended knee hands-up prayin.', 'dimes.', 'does.', 'porch.', 'home.', 'right.', 'year old.', 'again.', 'wall.', 'trouble.', 'chances.', 'heart.', 'tree.', 'alone with.', 'hands.', 'dont.', 'on.', 'guitar.', 'direction.', 'shot.', 'am.', 'street.', 'were.', 'style.', 'science.', 'boots.', 'hard.', 'life.', 'about.', 'choosin.', 'highway.', 'unpredictable unforgettable.', 'everywhere.', 'mama.', 'e.', 'grizzly wintergreen.', 'hands-up prayin.', 'perfume.', 'off.', 'more.', 'angels.', 'hold.', 'unsupervised saturday night.', 'ious.', 'lips.', 'blows me.', 'hundred proof yeah.', 'remedy.', 'sometimes.', 'tequila.', 'mark.', 'baby yeah.', 'unsaid.', 'wait.', 'stone.', 'faith.', 'drowned.', 'doubt.', 'slower.', 'heaven.', 'handle it.', 'know.', 'summer.', 'our song.', 'end.', 'kiss.', 'desperate man.', 'unbelievable.', 'light.', 'at.', 'them luke caseys.', 'spark.', 'forever.', 'money falling from heaven.', 'faded.', 'music.', 'behind.', 'backyard dirt.', 'wind.', 'vinyl.', 'room.', 'nervous.', 'show.', 'now.', 'twelve.', 'free.', 'night.', 'johnnie walker healin.', 'back.', 'man.', 'quit.', 'california.', 'world.', 'sunkist soda.', 'sure.', 'gone.', '150.', 'girlfriends perfume.', 'it.', 'while.', 'dash.', 'smile.', 'away yeah.', 'told me.', 'rain.', 'homesick.', 'high.', 'lights.', 'goodnight.', 'whoa.', 'weeks.', 'secret.', 'wins.', 'dollar signs.', 'shift.', 'overrated.', 'hallway.', 'next.', 'dog named waylon.', 'hallelujah.', 'mess.', 'gone again.', 'long.', 'plain.', 'up.', 'together again.', 'judge.', 'minute.', 'shining.', 'year.', 'rich.', 'hand.', 'speechless.', 'toe prada.', 'boats fishing limb lines.', 'honkytonk.', 'full tilt.', 'bone.', 'done.', 'west coast line.', 'radio.', 'thing.', 'party.', 'mind.', 'along.', 'sunrise sunburn sunset repeat ayy.', 'songs.', 'vote.', 'fine.', 'top.', 'lotta pain.', 'need.', 'brothers.', 'morning.', 'another.', 'hello.', 'lie.', 'cd.', 'dogs.', 'touch like some ol ten year old.', 'saturday night.', 'pines.', 'lucky man.', 'golden road.', 'avenue.', 'oh.', 'desert.', 'job done.', 'hair.', 'truth.', 'beat-up boots.', 'three.', 'very rare.', 'id.', 'heavy crown.', 'bodys beside hers.', 'describe.', 'dirt.', 'road.', 'thief.', 'sky.', 'swear.', 'yeah.', 'time.', 'soda.', 'see.', 'm p l e.', 'prayin.', 'runnin.', 'somebody brand new spark.', 'ground.', 'before.', 'song.', 'make.', 'gold.', 'precious than gold.', 'why.', 'way.', 'fire.', 'there.', 'most.', 'close.', 'tomorrow.', 'asleep.', 'around.', 'town.', 'clear.', 'amaze me.', 'thrown around.', 'closer.', 'surface.', 'playlist.', 'uh.', 'history.', 'spare.', 'drove around.', 'sixteen.', 'find.', 'wintergreen.', 'share.', 'hot coal.', 'grin.', 'week.', 'reason why.', 'healin.', 'between.', 'over.', 'jukebox choir.', 'like.', 'eye.', 'to each other.', 'tears.', 'traffic jam.', 'marilyn.', 'ring.', 'named waylon.', 'little.', 'church.', 'wants.', 'gambling.', 'crazy sometimes.', 'west coast wind.', 'you.', 'falls asleep.', 'door.', 'sleeve.', 'knot.', 'ten year old.', 'wound.', 'unusual unbelievable.', 'comin.', 'water.', 'without you.', 'any room girl.', 'weakness.', 'saved up.', 'signs.', 'barefooted.', 'eyes.', 'shirt.', 'not.', 'laugh about life.', 'floorboard.', 'crown.', 'hours.', 'lines.', 'ya.', 'summer sophomore year.', 'here.', 'holding.', 'through.', 'wine.', 'me.', 'cigarettes burn burn burn burning man.', 'drink.', 'tractor hauling them georgia pines.', 'underneath.', 'anywhere.', 'feelin.', 'ashes.', 'job.', 'goes.', 'shoulder.', 'wondering when.', 'rocks.', 'hole.', 'her.', 'started.', 'bar.', 'prada.', 'losin.', 'girl.', 'count.', 'watered down.', 'floor.', 'rocket science.', 'damn.', 'forget.', 'each other.', 'crashing into night.', 'no.', 'together.', 'overtime hours.', 'crowd.', 'country.', 'luke caseys.', 'sexy.', 'string.', 'sold.', 'before you.', 'luxury.', 'fast.', 'did.', 'toyota.', 'hit.', 'radio station.', 'wild.', 'got.', 'beat.', 'same.', 'one.', 'amazing grace.', 'say.', 'wont.', 'dust.', 'crazy.', 'new.', 'daze.', 'eighteen.', 'land.', 'musics loud.', 'oooh.', 'names shelia.', 'millionaire.', 'limb lines.', 'dreamed about.', 'smoke.', 'honda.', 'to.', 'out.', 'benjamin for her.', 'bales.', 'old.', 'hers.', 'be.', 'tonight.', 'come over.', 'round.', 'that.', 'all.', 'with.', 'line.', 'name.', 'mine.', 'other.', 'friends.', 'soul.', 'how.', 'fight it.', 'came around.', 'lungs.', 'chance.', 'bottle.', 'tupelo.', 'this.', 'value.', 'veins.', 'greener.', 'alright.', 'perfect.', 'lead.', 'ass buddies.', 'baby.', 'lost.', 'l e.', 'us.', 'jam.', 'do.', 'love.', 'yours.', 'musics over.', 'different town.', 'black top.', 'sleep.', 'choir.', 'go.', 'repeat.', 'whiskey.', 'far.', 'whoa oh.', 'da.', 'shoulders.', 'seems broken together grin.', 'ditch.', 'run.', 'fishing limb lines.', 'down.', 'single touch.', 'pretty feet high.', 'bed.', 'eighteen wild streak run.', 'sip.', 'fall.'}
+INFO:root:
+Shortest word: (1, '150.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (45, 'loved the bank its like you were my sunday learning in mmmh and where i could cost so baby let you lock eyes all im fine im just watchin that curve so take a sunday learning in but how we sit around the texas plain.')
+INFO:root:Probability:   3.493431040380515e-49
+
+INFO:root:Repeats:       {'this.', 'lost.', 'hers.', 'wont.', 'down.', 'judge.', 'roller gambling.', 'hold.', 'me.', 'wild ass man.', 'goes.', 'runnin.', 'know.', 'blood.', 'make.', 'unusual unbelievable.', 'unsaid.', 'new.', 'light caution.', 'clear.', 'cd.', 'round.', 'buddies.', 'us.', 'home.', 'sunkist soda.', 'about.', 'struggle.', 'jackson.', 'wins.', 'hands.', 'in.', 'holding.', 'wings on tight.', 'am.', 'pier.', 'eyes.', 'times roll.', 'tonight.', 'coal.', 'eighteen.', 'church.', 'hauling them bales.', 'chance.', 'rocks.', 'underneath.', 'station.', 'friday night.', 'bales.', 'beat.', 'street.', 'fine.', 'twelve.', 'one.', 'prayin.', 'whiskey.', 'man.', 'signs.', 'wine.', 'thief.', 'up.', 'hand.', 'smile.', '150.', 'ious.', 'big one.', 'angels.', 'spark.', 'baby.', 'now.', 'grizzly wintergreen.', 'do.', 'crazy.', 'toe prada.', 'dirt heat.', 'lie.', 'porch.', 'ashes.', 'nervous.', 'wind.', 'sky.', 'trouble grin.', 'that.', 'you.', 'fire.', 'anything.', 'choir.', 'next.', 'go.', 'hallway.', 'boots.', 'chances.', 'when.', 'crowd.', 'everything.', 'on.', 'yeah.', 'music.', 'instagram.', 'losin.', 'speechless.', 'sometimes.', 'california.', 'scars.', 'slower.', 'unpredictable unforgettable.', 'thrown around.', 'damn.', 'hearted gypsy.', 'not.', 'vinyl.', 'prada.', 'marilyn.', 'desperate man.', 'water.', 'room.', 'how.', 'girl.', 'other.', 'quit.', 'be.', 'life.', 'fake id.', 'free.', 'door.', 'shining.', 'joshua tree.', 'perfect.', 'flame.', 'luxury.', 'goin down.', 'night.', 'track.', 'unholy water.', 'under.', 'saved up.', 'anybody.', 'mine.', 'faith.', 'floorboard.', 'sure.', 'rich.', 'johnnie walker healin.', 'watered down.', 'ground.', 'without you.', 'spare.', 'dirt.', 'to.', 'here.', 'with.', 'job.', 'fast.', 'ooh.', 'heart.', 'were.', 'tequila.', 'anywhere.', 'forever.', 'cause.', 'rare.', 'run.', 'my outside on.', 'car.', 'hands-up prayin.', 'named waylon.', 'mind.', 'bodys beside hers.', 'lips.', 'soda.', 'friends.', 'beat-up boots.', 'stroke.', 'dress.', 'together.', 'sleeve.', 'pain.', 'fishing limb lines.', 'long.', 'healin.', 'e.', 'way up.', 'style yeah.', 'limb lines.', 'bass too far.', 'empty glasses now.', 'see.', 'lights.', 'jukebox choir.', 'unbelievable.', 'lines.', 'around.', 'devils hot coal.', 'pines.', 'tight.', 'sunrise sunburn sunset repeat ayy.', 'da.', 'alright.', 'turning back.', 'wall.', 'need.', 'dust.', 'style.', 'slow.', 'it.', 'shoulders.', 'hit.', 'fame.', 'streak run.', 'trying.', 'light.', 'say.', 'gone.', 'aisle.', 'like.', 'doubt.', 'weakness.', 'listenin.', 'thing.', 'honkytonk.', 'di da.', 'end.', 'wants.', 'old.', 'three.', 'did.', 'hair up.', 'gold.', 'hair.', 'shot.', 'overrated.', 'again.', 'millionaire.', 'swear.', 'grin.', 'out.', 'dogs.', 'hey.', 'close.', 'homesick.', 'world.', 'shift.', 'oooh.', 'called.', 'musics over.', 'grace.', 'all.', 'girlfriends perfume.', 'songs.', 'closer.', 'started.', 'shelia.', 'along.', 'kiddin.', 'sinks in.', 'feelin.', 'country.', 'bed.', 'new spark.', 'week.', 'windows down.', 'secret.', 'gone again.', 'more.', 'love.', 'time.', 'gambling.', 'between.', 'cutoff jeans.', 'truth.', 'no.', 'faded.', 'plain.', 'veins.', 'radio.', 'sunset repeat.', 'off.', 'name.', 'bottle.', 'whoa.', 'side.', 'smoke.', 'right.', 'got.', 'shine.', 'stone.', 'hallelujah.', 'pavin.', 'eye.', 'them luke caseys.', 'most.', 'brothers.', 'party.', 'string.', 'been.', 'minute.', 'reason.', 'repeat.', 'cmon.', 'sixteen.', 'bar.', 'ya.', 'wild.', 'guitar.', 'heaven.', 'wound.', 'far.', 'sleep.', 'drunk.', 'forget.', 'shirt.', 'georgia pines.', 'two.', 'morning.', 'amaze me.', 'star.', 'town.', 'there.', 'comin.', 'single touch.', 'history.', 'lungs.', 'oh.', 'lookin old town.', 'while.', 'bucks.', 'shed sing along.', 'peanut dust.', 'meet.', 'amazing grace.', 'glass barefooted.', 'longer.', 'sip.', 'uh.', 'hours.', 'desert.'}
+INFO:root:
+Shortest word: (1, '150.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (37, 'pourin out on turning me aint never seen what gives em no need to pull off with everything you a cowboy on top of things slide right there aint nothing will never on like spinning you called.')
+INFO:root:Probability:   9.05901593117083e-40
+
+INFO:root:Repeats:       {'this.', 'roof uh.', 'head.', 'grip.', 'anyway.', 'down.', 'i.', 'millions.', 'me.', 'fraud.', 'skrr.', 'loot.', 'know.', 'offense.', 'pool.', 'texting damn.', 'god.', 'us.', 'riding.', 'for.', 'best drug lord.', 'chills.', 'bodies start ay.', 'okay.', 'ayy.', 'about.', 'rod.', 'jenny.', 'skrrt.', 'real.', 'hoe.', 'spoiled.', 'crowd cheering.', 'at.', 'bedroom man.', 'am.', 'always.', 'coupe.', 'jolly whoa.', 'case.', 'nine.', 'edible.', 'profane.', 'uhh.', 'hard.', 'read comments.', 'talk.', 'coppin what.', 'sis uh.', 'pop.', 'surprise yeah.', 'drizzy damn.', 'one.', 'trippin.', 'crept down freezin cold.', 'man.', 'hoe shit.', 'face.', 'taste.', 'scuff bro.', 'up.', 'smooth.', 'now.', 'baby.', 'floor.', 'fucking hoes.', 'rap ayy.', 'cocky.', 'sky.', 'false claim.', 'that.', 'you.', 'panic.', 'really sellin fruits.', 'nann favor.', 'aim.', 'go.', 'above hoes.', 'trapmoneybenny.', 'freeze.', 'slave.', 'instagram.', 'moon.', 'everything.', 'neck.', 'brrr.', 'yeah.', 'drives itself.', 'moe.', 'moby uh.', 'road.', 'depart ay.', 'slayed.', 'savage.', 'ones go.', 'pa pa.', 'damn.', 'everybody playlist.', 'rock.', 'blind dog nigga.', 'huh.', 'fashions.', 'room.', 'water.', '1800.', 'wreck.', 'low.', 'tac damn.', 'other.', 'dance.', 'be.', 'givin.', 'scream.', 'free.', 'land.', 'break.', 'live that.', 'rocks sis uh.', 'sunflower.', 'clique.', 'track.', 'nice.', 'feelings.', 'sellin fruits.', 'settle man.', 'bitch.', 'kate.', 'dig.', 'fly.', 'scheme.', 'clone haha.', 'said.', 'dre shit.', 'buffalo.', 'hoo.', 'stop.', 'ooh.', 'coffee.', 'boo.', 'were.', 'private jet shit.', 'nigga.', 'pops.', 'the.', 'hitta.', 'motherfucking dope.', 'last.', 'egg.', 'back.', 'bonnaroo.', 'care.', 'mind.', 'patek.', 'huff though.', 'ohh ooh.', 'kickin.', 'friends.', 'ways.', 'what.', 'stranger.', 'egchk.', 'so.', 'paid.', 'made.', 'safety.', 'scuds go.', 'surprise.', 'money.', 'rocking rock.', 'around.', 'control.', 'astro yeah.', 'dance mac dre shit.', 'ass.', 'alright.', 'nevertheless.', 'ice.', 'kill me.', 'skrt.', 'high.', 'casket drippin.', 'unborn.', 'dust.', 'grave digger.', 'hahahahaha.', 'yo.', 'it.', 'yup.', 'ay ay.', 'light.', 'hit.', 'shit.', 'but.', 'lays.', 'moe no.', 'roll whoa.', 'say.', 'gone.', 'ring.', 'start.', 'known.', 'ye ah.', 'lady.', 'thing.', 'why.', 'fuck.', '10.', 'end.', 'ay.', 'roof.', 'bluff bro.', 'suds go.', 'records trendin.', 'toast.', 'again.', 'toned em.', 'super fly.', 'out.', 'hey.', 'close.', 'insane yeah.', 'calabasas.', 'kardashi.', 'drip.', 'die.', 'sunstroke.', 'lose.', 'yah yah.', 'fed up.', 'row.', 'bro.', 'bed.', 'trade.', 'doin this.', 'moccasin.', 'digger.', 'woo 300.', 'stomach.', 'saved.', 'dope.', 'too.', 'love.', 'fight back.', 'lot skrt uh.', 'aunts though.', 'wave.', 'turbo.', 'no.', 'free 1800.', 'yah.', 'slime drizzy damn.', 'work.', 'name.', 'whoa.', 'smoke.', 'eeny meeny miny moe no.', 'green in check.', 'mo bamba bamba.', 'someone.', 'gross.', 'bamba.', 'drop.', 'hoes.', 'bleed.', 'woo.', 'bout a phantom skrrt skrrt.', 'ya.', 'nah.', 'project racks.', 'chills right.', 'uproar.', 'alone.', 'seesaw.', 'pic.', 'lord.', 'kind of og huh.', 'eghck egchk.', 'hell raiser.', 'deep.', 'pussy.', 'options.', 'lit.', 'our lives.', 'waste it.', 'tr3yway.', 'sweat.', 'drums go.', 'message.', 'mofuckin joke haha hahahahaha.', 'decide.', 'hangman.', 'oh.', 'top ayy.', 'gun.', 'goose.', 'hoo uh.', 'while.', 'bow.', 'racks.', 'eh.', 'done.', 'utmost.', 'uh.', 'yuh dun kno.'}
+INFO:root:
+Shortest word: (1, '10.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (34, 'hear you so big i move through london with your mommy with em free yeah yeah checks big enough make him brand it goes on me since i stuck by her i invented smooth.')
+INFO:root:Probability:   2.084809636718663e-35
+
+INFO:root:Repeats:       {'stage.', 'know.', 'touched.', 'okay.', 'pageantry.', 'broken.', 'afterwind.', 'cold.', 'confusion.', 'weight.', 'adamant upper level.', 'one.', 'blown away.', 'shadows.', 'thief.', 'up.', 'alive.', 'comprehend.', 'anything.', 'crown.', 'moving steady now.', 'understand.', 'corruption.', 'assumed.', 'marilyn monroe.', 'reach amazing.', 'sun.', 'free.', 'land.', 'rope.', 'feelings.', 'faces.', 'car and.', 'here.', 'inner voice.', 'heart.', 'jackets.', 'proud.', 'cause.', 'find.', 'long.', 'much.', 'change.', 'brain.', 'by.', 'statements.', 'again.', 'feelin .', 'paralyzed.', 'final curtain call us.', 'world.', 'behold rest assured.', 'preacher will.', 'ever.', 'moving.', 'bound.', 'tape parade.', 'upper level.', 'shackles off.', 'glorious display.', 'vultures.', 'building.', 'wreckage.', 'doubt .', 'their marks.', 'knees.', 'demons.', 'fade.', 'ours.', 'hear.', 'this.', 'mine stands strong.', 'head.', 'cost.', 'room 1334.', 'visions fading.', 'wooooooooah.', 'make.', 'silent.', 'monroe in history.', 'for.', 'narrows.', 'trust.', 'pay.', 'about.', 'wrong.', 'cutthroat.', 'colder weather.', 'darkness.', 'voice .', 'silence.', 'reservations have such charm.', 'taxman.', 'original sin.', 'midnight.', 'clinging.', 'fire.', 'please.', 'floor.', 'legendary.', 'move.', 'rock.', 'ending race.', 'be.', 'under.', 'paradise.', 'ground.', 'is.', 'said.', 'left.', 'crawling.', 'try.', 'negotiations.', 'job and.', 'gave in.', 'biggest fan.', 'through.', 'exponentially.', 'seasons change.', 'turned into people.', 'surgery.', 'what.', 'shotgun.', 'forty acres uh.', 'see.', 'fucking life.', 'black holes solid ground.', 'oxycodone.', 'disease.', 'alright.', 'fail.', 'rate.', 'disturb.', 'shit.', 'away.', 'why.', 'hooray.', 'end.', 'and.', 'feelin.', 'backs.', 'moonlight.', 'going.', 'disappear.', 'happenin.', 'choke me.', 'off.', '3.', 'story.', 'blind.', 'molotov drops.', 'baby move.', 'woah ooooooooh ooohh.', 'far.', 'acres uh.', 'two.', 'wide blocks.', 'woaaahh.', 'million degrees.', 'green hill.', 'told.', 'fading.', 'way.', 'doll.', 'oceans flowing.', 'down.', 'paralysed.', 'hold.', 'carefully.', 'clear.', 'us.', 'dream.', 'eyes.', 'better.', 'curb me.', 'autograph.', 'died.', 'needs.', 'fine.', 'leave.', 'enough.', 'preyed upon.', 'mushroom cloud confetti.', 'babe.', 'unspoken.', 'roll.', 'you.', 'go.', 'release.', 'regrets.', 'exit out.', 'nothing.', 'strings yet again.', 'happen.', 'forgot.', 'life.', 'night.', 'heartache cast away.', 'stumbles.', 'everyone.', 'forever.', 'listen.', 'sense.', 'friends.', 'valley doll.', 'silent grieve.', 'real estate.', 'flicker.', 'charm.', 'around.', 'feet.', 'first.', 'rise.', 'da.', 'rain.', 'ashamed.', 'satisfied.', 'tattoo.', 'but.', 'sit.', 'remind me.', 'best.', 'tongue.', 'faith.', 'out.', 'hey.', 'my.', 'natural.', 'epiphany.', 'noises.', 'die.', 'genocide.', 'choke.', 'something.', 'rodney almost died.', 'action.', 'more.', 'no no.', 'time.', 'no.', 'boulevard.', 'strong.', 'give.', 'drops.', 'bradys mom.', 'right.', 'flowing.', 'edge.', 'bleed.', 'over.', 'bleeding.', 'loyalty over royalty.', 'odds.', 'there.', 'game.', 'mean.', 'saying.', 'revolution.', 'machine.', 'growing cold.', 'me.', 'body.', 'iodine.', 'pockets clean.', 'in.', 'feeling.', 'tonight.', 'wasted.', 'holes solid ground.', 'estate.', 'now.', 'baby.', 'royalty.', 'place.', 'on.', 'yeah.', 'apart.', 'not.', 'knows.', 'door.', 'dime.', 'kind.', 'mine.', 'large.', 'rich.', 'host.', 'stars.', 'approaches.', 'back.', 'promised cause.', 'mind.', 'word .', 'should.', 'vision narrows.', 'pain.', 'thats probably part of it.', 'ghost.', 'inside.', 'stain.', 'ready.', 'fun.', 'user.', 'high.', 'surroundings.', 'dead.', 'it.', 'body blown away.', 'line.', 'start.', 'like.', 'dark.', 'woman show.', 'loud.', 'gold.', 'song.', 'will.', 'parade.', 'close.', 'days.', 'of.', 'all.', 'tied these faces.', 'unheard.', 'today.', 'prey.', 'hip hooray.', 'gods.', 'falls.', 'steady now.', 'moved on.', 'goodbye.', 'below.', 'live.', 'stone.', 'air.', 'america.', 'someone.', 'upon.', 'pretend.', 'alone.', 'focus.', '1334.', '.', 'plane.', 'rocks below.', 'oh.', 'come.', 'anger.', 'plot.'}
+INFO:root:
+Shortest word: (1, '.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (32, 'price you hoped you save yourself short you talking to me youre all made me whole thing made a theory i lost my fear is up at night im getting on oxycodone.')
+INFO:root:Probability:   1.1745076913905246e-36
+
+INFO:root:
+Shortest word: (1, 'station.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (6, 'green eyed girl every night hallelujah.')
+INFO:root:Probability:   5.027750000000001e-05
+
+INFO:root:
+Shortest word: (1, 'drip.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (2, 'soup ayy.')
+INFO:root:Probability:   1.0
+
+INFO:root:
+Shortest word: (1, 'silence.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (5, 'comes without a fuckin thing.')
+INFO:root:Probability:   0.0007000000000000001
+
+INFO:root:
+Shortest word: (1, 'feeling.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (2, 'lotta pain.')
+INFO:root:Probability:   1.0
+
+INFO:root:
+Shortest word: (1, 'some.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (6, 'mask for the nigga nann favor.')
+INFO:root:Probability:   1.5e-05
+
+INFO:root:
+Shortest word: (1, 'much.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (4, 'wretched soul is frozen.')
+INFO:root:Probability:   0.0022
+
+INFO:root:
+Shortest word: (1, 'again.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (5, 'as well give to smoke.')
+INFO:root:Probability:   1.8724800000000002e-06
+
+INFO:root:
+Shortest word: (1, 'money.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (1, 'shit.')
+INFO:root:Probability:   1
+
+INFO:root:
+Shortest word: (1, 'intense.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (1, 'me.')
+INFO:root:Probability:   1
+
+INFO:root:
+Shortest word: (1, 'fire.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (11, 'pullin me away from dawn to your fires or your hands.')
+INFO:root:Probability:   1.4575742999999998e-11
+
+INFO:root:
+Shortest word: (1, 'at.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (2, 'haha hahahahaha.')
+INFO:root:Probability:   1.0
+
+INFO:root:
+Shortest word: (1, 'rise.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (4, 'try with your tongue.')
+INFO:root:Probability:   0.001179486
+
+INFO:root:
+Shortest word: (1, 'name.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (3, 'laughing at all.')
+INFO:root:Probability:   0.037
+
+INFO:root:
+Shortest word: (1, 'millions.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (35, 'slept through the patek i forgot the way he yeah pass the right one from 6 to the chicken the watch me see me see the flow that i find it back on mars mars.')
+INFO:root:Probability:   9.259307243967736e-41
+
+INFO:root:
+Shortest word: (1, 'high.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (13, 'haunts my brothers burning down the hunter than to be more than this.')
+INFO:root:Probability:   2.6262437138437496e-11
+
+INFO:root:
+Shortest word: (1, 'man.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (1, 'yeah.')
+INFO:root:Probability:   1
+
+INFO:root:
+Shortest word: (1, 'you.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (7, 'kiki do percents i need that shit.')
+INFO:root:Probability:   2.9159999999999994e-07
+
+INFO:root:
+Shortest word: (1, 'away.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (2, 'steady now.')
+INFO:root:Probability:   1.0
+
+INFO:root:
+Shortest word: (1, 'me.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (7, 'need to go nowhere to live it.')
+INFO:root:Probability:   1.5248736000000002e-07
+
+INFO:root:
+Shortest word: (1, 'ayy.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (11, 'four hour lockdown we back and man she workin on ya.')
+INFO:root:Probability:   3.6194558399999995e-11
+
+INFO:root:
+Shortest word: (1, '.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (1, 'it.')
+INFO:root:Probability:   1
+
+INFO:root:
+Shortest word: (1, 'between.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (8, 'turns with nowhere to live on a daze.')
+INFO:root:Probability:   1.0237751999999999e-08
+
+INFO:root:
+Shortest word: (1, 'you.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (4, 'gunna not a savage.')
+INFO:root:Probability:   0.000835
+
+INFO:root:
+Shortest word: (1, 'confusion.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (9, 'weeks in an america we aint a one release.')
+INFO:root:Probability:   1.4447630400000001e-08
+
+INFO:root:
+Shortest word: (1, 'share.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (9, 'does it come to quit and make ya down.')
+INFO:root:Probability:   4.3918874999999987e-10
+
+INFO:root:
+Shortest word: (1, 'fuck.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (3, 'oakland you always.')
+INFO:root:Probability:   0.025
+
+INFO:root:
+Shortest word: (1, 'crawling.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (12, 'world without a consequence or will you everythings a lot of stone.')
+INFO:root:Probability:   1.3017149144999997e-11
+
+INFO:root:
+Shortest word: (1, 'top.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (3, 'head to dusk.')
+INFO:root:Probability:   0.0025
+
+INFO:root:
+Shortest word: (1, 'safety.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (4, 'sleepin on better days.')
+INFO:root:Probability:   0.000315
+
+INFO:root:
+Shortest word: (1, 'america.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (1, 'side.')
+INFO:root:Probability:   1
+
+INFO:root:
+Shortest word: (1, 'say.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (20, 'were my eyes they get wrapped up in in on like angels singing bout what i love will come over.')
+INFO:root:Probability:   1.3297883670624884e-21
+
+INFO:root:
+Shortest word: (1, 'plane.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (12, 'ladies and ran it suck it would be drippin to save me.')
+INFO:root:Probability:   7.844720399999998e-12
+
+INFO:root:
+Shortest word: (1, 'long.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (1, 'win.')
+INFO:root:Probability:   1
+
+INFO:root:
+Shortest word: (1, 'forever.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (4, 'virgin mother a little.')
+INFO:root:Probability:   0.007
+
+INFO:root:
+Shortest word: (1, 'kate.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (1, 'sunflower.')
+INFO:root:Probability:   1
+
+INFO:root:
+Shortest word: (1, 'kind.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (1, 'should.')
+INFO:root:Probability:   1
+
+INFO:root:Repeats:       {'night.', 'girl.', 'say.', 'mind.', 'room.', 'real value.', 'nervous.', 'da.', 'church.', 'california.', 'wait.', 'man.', 'wall.', 'speechless.', 'you.', 'it.', 'yeah.', 'know.', 'mama.', 'ya.', 'be.', 'me.', 'in.', 'one.', 'shot.', 'free.', 'out.', 'quit.', 'love.'}
+INFO:root:
+Shortest word: (1, '150.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (31, 'safe to talk about you yeah you like my breaths leaving this girl no there in her baby if i hear your memory it this thing yeah im such a light.')
+INFO:root:Probability:   6.968401344913087e-38
+
+INFO:root:Repeats:       {'shit.', 'alone.', 'but.', 'mind.', 'uh.', 'around.', 'head.', 'baby.', 'jackin.', 'damn.', 'bro.', 'oh.', 'rod.', 'that.', 'you.', 'it.', 'yeah.', 'god.', 'roof.', 'fuck.', 'me.', 'wont.', 'taste.', 'go.'}
+INFO:root:
+Shortest word: (1, '10.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (31, 'liked shit wetty like gucci barry white girls like boardin jets i give me like its gucci its in all do percents i wont see the daytrip nigga come for weak.')
+INFO:root:Probability:   1.1000798928098873e-33
+
+INFO:root:Repeats:       {'kind.', 'legendary.', 'and.', 'trust.', 'natural.', 'mind.', 'beauty now.', 'time.', 'baby.', 'away.', 'oh.', 'forgot.', 'prey.', 'now.', 'you.', 'fall.', 'loud.', 'it.', 'broken.', '.', 'us.', 'america.', 'disappear.', 'like.', 'on.', 'long.', 'me.', 'all.', 'alive.', 'vapors through.', 'in.', 'go.', 'ready.', 'hey.', 'out.', 'today.', 'world.', 'needs.'}
+INFO:root:
+Shortest word: (1, '.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (17, 'quotas off alone yeah im on my hand wont let it taking all around your preacher will.')
+INFO:root:Probability:   1.183553513093952e-16
+
+INFO:root:Repeats:       {'spare.', 'brothers.', 'time.', 'it.', 'need.', 'wind.', 'exception.', 'over.', 'see.', 'peanut dust.', 'runnin.', 'wins.', 'whiskey.', 'desert.', 'here.', 'high.', 'girl.', 'hearted gypsy.', 'be.', 'perfume.', 'water.', '5.', 'smile.', 'night.', 'now.', 'there.', 'sip.', 'know.', 'coal.', 'yeah.', 'heart.', 'morning.', 'wants.', 'out.', 'sleeve.', 'hand.', 'town.', 'sure.', 'man.', 'about.', 'string.', 'skynyrd grin.', 'honky tonk angels.', 'unbelievable.', 'unsaid.', 'bar.', 'grizzly wintergreen.', 'hard.', 'damn.', 'were.', 'feelin.', 'perfect.', 'nervous.', 'glass barefooted.', 'light.', 'name.', 'hold.', 'fire.', 'lie.', 'on.', 'crazy.', 'before you.', 'guitar.', 'sixteen.', 'gone.', 'midnight song.', 'did.', 'around.', 'moments.', 'bottle.', 'me.', 'truth.', 'make.', 'porch.', 'names shelia.', 'church.', 'world.', 'toe prada.', 'say.', 'complain.', 'rollin stone.', 'anywhere.', 'forget.', 'rocks.', 'tequila.', 'tree.', 'eyes.', 'again.', 'choosin.', 'not.', 'very rare.', 'tonight.', 'more.', 'marilyn.', 'tonk angels.', 'room.', 'country.', 'got.', 'forever.', 'at.', 'party.', 'cmon.', 'blackest night.', 'homesick.', 'overrated.', 'lights.', 'minute.', 'up.', 'same.', 'hours.', 'shoulders.', 'repeat.', 'everywhere.', 'mine.', 'down.', 'california.', 'land.', 'ya.', 'heavy crown.', 'songs.', 'right.', 'dont.', 'mind.', 'radio.', 'with.', 'gambling.', 'baby.', 'quit.', 'ended up.', 'you.', 'value.', 'like.', 'wait.', 'ground.', 'do.', 'go.', 'lips.', 'dust.', 'lungs.', 'dusk.', 'closer.', 'honkytonk.', 'style.', 'describe.', 'limb lines.', 'rich.', 'in.', 'avenue.', 'hey.', 'ious.', 'goes.', 'millionaire.', 'share.', 'e.', 'yours.', 'her.', 'thing.', 'desperate man.', 'old.', 'highway.', 'gold.', 'mama.', 'no.', 'street.', 'speechless.', 'free.', 'ditch.', 'da.', 'one.', 'all.', 'school radio station.', 'bed.'}
+INFO:root:
+Shortest word: (1, '5.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (31, 'picking up a whole world just cant help but how bad i saw you standing there was right down more times than i swore you can keep believing there aint judging.')
+INFO:root:Probability:   1.8283298758039767e-32
+
+INFO:root:Repeats:       {'money.', 'ye ah.', 'freak freak.', 'fly.', 'always.', 'it.', 'cheering.', 'ching.', 'dig.', 'shit.', 'bigger chain.', 'bleed.', 'alone.', 'anyway.', 'save this.', 'flipped.', 'belt.', 'now.', 'ay.', 'yeah.', 'favor.', 'low.', 'toe no.', 'neck work.', 'wave.', 'hoe.', 'bro.', 'man.', 'about.', 'saved.', 'papoose.', 'jonas.', 'playlist.', 'each other.', 'hoes.', 'surprise.', 'friends.', 'safe.', 'nigga.', 'trouble.', 'talk.', 'uh.', 'hard.', 'papi.', 'jenny.', 'damn.', 'kate.', 'fraud.', 'decide.', 'okay.', 'whoa.', 'russia.', 'fuck.', 'slayed.', 'hit.', 'phantom skrrt skrrt.', 'paid.', 'alone yeah.', 'profane.', 'brrr.', 'ferrari.', 'crazy.', 'live that.', 'sex woo.', 'said.', 'celly.', 'true.', 'around.', 'care.', 'stark yeah.', 'ayy.', 'me.', 'truth.', 'muzzle.', 'dope.', 'what.', 'hoo.', 'sheets.', 'prettiest face.', 'ring.', 'sayin wow.', 'drip.', 'rod.', 'star.', 'clue.', 'forget.', 'suit.', 'givin.', 'tan.', 'riding.', 'wheels woo.', 'room.', 'at.', 'uproar.', 'neck.', 'oh.', 'addicted.', 'gun stowed.', 'resents.', 'yah.', 'sunflower.', 'crew.', 'spoiled.', 'vegetables.', 'god.', 'chills.', 'up.', 'though.', 'own it.', 'pa pa.', 'kickback.', 'bow.', 'break.', 'coupe.', 'console.', 'c woo.', 'down.', 'resilient for it.', 'toast.', 'land.', 'ya.', 'right.', 'heal right.', 'tr3yway.', 'mind.', 'slice.', 'with.', 'message.', 'dun kno.', 'baby.', 'trippin.', 'moccasin.', 'pendant.', 'love.', 'you.', 'ooh.', 'hey hey.', 'a.', 'floor.', 'some.', 'ddamn ay.', 'wraith.', 'taste.', 'boom.', 'kickin.', 'back.', 'go.', 'itself.', 'fed up.', 'dust.', 'sellin fruits.', 'earned it.', 'pop.', 'that.', 'huh.', 'coppin what.', 'woo.', 'ways.', 'eh.', 'head.', 'road.', 'roof.', 'done.', 'bae.', 'thing.', 'made.', 'drizzy damn.', 'hands.', 'no.', 'raiser.', 'jokes.', 'real.', 'free.', 'went.', 'smoke.', 'kno.', 'one.', 'sicko mode.', 'heat.', 'bitch.'}
+INFO:root:
+Shortest word: (1, '300.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (44, 'were looking forward to draw the shots that cash you wanna talk but its out you gon suck it got em the coupe you left in these girls rushin on me sick to come through rockin it to the pick today ayy 767 man.')
+INFO:root:Probability:   4.399138864753631e-49
+
+INFO:root:Repeats:       {'rumor.', 'far.', 'time.', 'it.', 'attention.', 'broken.', 'over.', 'see.', 'fail.', 'long.', 'rise.', 'pours.', 'and.', 'here.', 'high.', 'disease.', 'beach.', 'hooray.', 'be.', 'promised cause.', 'ghost.', 'win.', 'night.', 'now.', 'heart.', 'hope.', 'know.', 'there.', 'yeah.', 'someone.', 'million degrees.', 'smoke is.', 'cold.', 'son.', 'life.', 'america.', 'cost.', 'out.', 'sit.', 'faith.', 'strong.', 'away.', 'darkness.', 'known.', 'thoughts are there.', 'solution.', 'sin.', 'knees.', 'better.', 'display.', 'start.', 'unspoken.', 'plot.', 'run.', 'ever.', 'control.', 'feelin.', 'day.', 'darlin.', 'left.', 'today.', 'hidden tattoo.', 'feelings.', 'falls.', 'lost.', 'pain.', 'on.', 'touched.', 'choice.', 'move.', 'approaches.', '.', 'upon.', 'bent.', 'next one.', 'should.', 'anything.', 'midnight.', 'said.', 'around.', 'hard feelings.', 'dark.', 'story.', 'babe.', 'me.', 'sense.', 'rope.', 'forgot.', 'dead.', 'rocks below.', 'surgery.', 'world.', 'say.', 'boulevard.', 'door.', 'silence.', '3.', 'crawling.', 'too.', 'eyes.', 'pretend.', 'come.', 'again.', 'more.', 'roll.', 'best hey.', 'oh.', 'hear.', 'oxycodone.', 'but.', 'stain.', 'chills.', 'up.', 'kind.', 'find.', 'heartache cast away.', 'odds.', 'pageantry.', 'worst.', 'side.', 'stage.', 'final curtain falls.', 'same.', 'moving.', 'here waiting.', 'first.', 'mine.', 'down.', 'god erase me.', 'taxman.', 'age.', 'jackets.', 'spell.', 'get.', 'thinking.', 'right.', 'blind.', 'die.', 'mind.', 'moonlight.', 'revolution.', 'body.', 'you.', 'blackness.', 'ready.', 'legendary.', 'like.', 'a.', 'floor.', 'ground.', 'believe.', 'rain.', 'go.', 'wrong.', 'something.', 'coming.', 'us.', 'off.', 'peace facing.', 'walked in.', 'to.', 'loud.', 'wreckage.', 'erase me.', 'blocks.', 'holes solid ground.', 'way.', 'alright.', 'disturb.', 'end.', 'head.', 'terrorise.', 'hey.', 'give.', 'natural.', 'going.', 'moneys time.', 'nothing.', '9.', 'prey.', 'no.', 'change.', 'horizon.', 'why.', 'autograph.', 'alive.', 'one.', 'all.', 'trust.', 'proud.', 'answers.', 'sake ever.', 'fade.', 'through.'}
+INFO:root:
+Shortest word: (1, '.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (29, 'where youre wrong sometimes i waited there and flags and words you people like i swear i couldnt tell you kiss me on a voice like before you cum.')
+INFO:root:Probability:   8.950515615782875e-36
+
+INFO:root:Repeats:       {'cant handle it.', 'say.', 'out.', 'no.', 'dress.', 'value.', 'tight.', 'little.', 'girl.', 'mama.', 'church.', 'down.', 'high.', 'thing.', 'closer.', 'ten year old.', 'twelve.', 'dust.', 'rich.', 'lookin for free.', 'does.', 'dogs.', 'long.', 'gambling.', 'healin.', 'love.', 'tonk angels.', 'bales.', 'dusk.', 'anywhere.', 'choir.', 'go.', 'that.', 'joshua tree.', 'night.', 'hours.', 'here.', 'choosin.', 'repeat.', 'sure.', 'not.', 'brothers.', 'job.', 'make.', 'top.', 'now.', 'girlfriends perfume.', 'minute.', 'millionaire.', 'places.', 'guitar.', 'epiphany.', 'blood.', 'honkytonk.', 'marilyn.', 'perfect.', 'crazy.', 'shelia.', 'songs.', 'in.', 'slower.', 'radio.', 'bar.', 'california.', 'whiskey.', 'her.', 'blackest night.', 'baby.', 'floor.', 'asleep.', 'da.', 'porch.', 'light caution.', 'week.', 'forever.', 'remedy.', 'e.', 'bone.', 'gold.', 'wait.', 'sip.', 'around.', 'sophomore year.', 'ious.', 'need.', 'bottle.', 'wintergreen.', 'lie.', 'low lights.', 'honda.', 'crowd.', 'needs sleep.', 'wants.', 'pines.', 'forget.', 'it.', 'heart.', 'tequila.', 'mind.', 'while.', 'us.', 'pier.', 'luxury.', 'heat.', 'runnin.', 'perfect kiss.', 'were.', 'hand.', 'uh.', 'up.', 'man.', 'friends.', 'history.', 'for.', 'sleeve.', 'name.', 'again.', 'ground.', 'door.', 'two.', 'overrated.', 'alright.', 'yeah.', 'on.', 'angels.', 'shot.', 'street.', 'one.', 'homesick.', 'falls asleep.', 'right.', 'wins.', 'do.', 'be.', 'know.', 'hold.', 'you.', 'tonight.', 'style.', 'string.', 'truth.', 'hearted gypsy.', 'about.', 'fast.', 'see.', 'nervous.', 'free.', 'proof yeah.', 'smile.', 'reason why.', 'feelin.', 'old.', 'over.', 'stone.', 'georgia pines.', 'speechless.', 'lost everything.', 'me.', 'walker healin.', 'fire.', 'ashes.', 'time.', 'beat.', 'track.', 'limb lines.', 'almost drowned.', 'line.', 'jeans.', 'ya.', 'hey.', 'town.', 'other.', 'super star.', 'far.', 'station.', 'amaze me.'}
+INFO:root:
+Shortest word: (1, '150.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (33, 'didnt know it quite like you get over there yet just livin that she follows me all we sit around the only thing yeah life reaches on her crazys beautiful crazy she wants.')
+INFO:root:Probability:   3.318418421060115e-32
+
+INFO:root:Repeats:       {'flag on hangin on.', 'hold.', 'see.', 'before you.', 'you.', 'rollin stone.', 'pavin.', 'true.', 'space between.', 'ious.', 'road.', 'forget.', 'up.', 'sexy.', 'healin.', 'wall.', 'long.', 'old.', 'street.', 'world.', 'together.', 'guitar.', 'sold.', 'stone.', 'limb lines.', 'millionaire.', 'me.', 'job.', 'eyes.', 'bone.', 'lights.', 'whoa.', 'mind.', 'ya.', 'back.', 'hello.', 'greener.', 'make.', 'whiskey.', 'more.', 'stairs.', 'need.', 'no.', 'fire.', 'room.', 'dress.', 'name.', 'girl.', 'song.', 'tears.', 'sip.', 'baby.', 'faded.', 'smile.', 'goes.', 'lips.', 'party.', 'time.', 'again.', 'bottle.', 'sky.', 'plain.', 'saved up.', 'friends.', 'go.', 'honkytonk.', 'rich.', 'quit.', 'di da.', 'here.', 'morning.', 'rivers run.', 'dust.', 'mine.', 'grown ass buddies.', 'truth.', 'california.', 'judging.', 'rain.', 'it.', 'other.', 'blood.', 'were.', 'right.', 'homesick.', 'hot coal.', 'shift baby.', 'e.', 'whispering goodnight.', 'wintergreen.', 'hand.', 'line.', 'wine.', 'music.', 'night.', 'beside hers.', 'repeat.', 'unusual unbelievable.', 'amazing grace.', 'direction.', 'real value.', 'around.', 'yeah.', 'be.', 'do.', 'speechless.', 'got.', 'thing.', 'town.', 'church.', 'top.', 'now.', 'grace.', 'love.', 'tight.', 'pines.', 'surprised.', 'lotta pain.', 'country.', 'sun goin down.', 'doubt.', 'this.', 'man.', 'secret.', 'with.', 'unsupervised saturday night.', 'watch tv.', 'little.', 'in.', 'say.', 'comin.', 'black hearted gypsy.', 'single touch.', 'on.', 'overrated.', 'sometimes.', 'down.', 'gone.', 'closer.', 'lucky man.', 'style.', 'hallway.', 'choir.', 'thinking.', 'not.', 'about.', 'anywhere.', 'ashes.', 'how.', 'black top.', 'rare.', 'runnin.', 'string.', 'oooh.', 'rocks.', 'toyota.', 'out.', 'beat.', 'tacoma california.', 'tonight.', 'burnt cd.', 'value.', 'while.', 'fine.', 'honda.', 'over.', 'crazy.', 'us.', 'marilyn.', 'gold.', 'one.', 'curfew.', 'oak church.', 'wait.', 'lie.', 'brothers.', 'life.', 'kitchen.', 'overtime hours.', 'know.', 'minute.', 'next.', 'sleeve.', 'shirt.', 'damn.', 'da.', 'along.', 'tequila.', 'water.'}
+INFO:root:
+Shortest word: (1, 'about.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (39, 'lookin old enough so much you my dirt road cred when all messed up when all we ride around the path youre what we wanna be itll be a whole world here boy take it will ever was us.')
+INFO:root:Probability:   1.2205489151758199e-39
+
+INFO:root:Repeats:       {'tight.', 'back.', 'oooh.', 'gold.', 'tonight.', 'anywhere.', 'far.', 'say.', 'man.', 'again.', 'asleep.', 'underneath.', 'gone.', 'blood.', 'bone.', 'boots.', 'drink.', 'morning.', 'songs.', 'away yeah.', 'honkytonk.', 'same.', 'rich.', 'on.', 'now.', 'musics over.', 'johnnie walker healin.', 'share.', 'barefooted.', 'song.', 'hallway.', 'call.', 'of.', 'heart.', 'yall sing along.', 'am.', 'sophomore year.', 'whiskey.', 'fine.', 'all.', 'repeat.', 'this.', 'unpredictable unforgettable.', 'away.', 'da.', 'goin down.', 'lotta pain.', 'lips.', 'world.', 'speechless.', 'mind.', 'brothers.', 'quit.', 'jeans.', 'swear.', 'it.', 'legally.', 'old.', 'did.', 'party.', 'long.', 'love.', 'school radio station.', 'star.', 'radio station.', 'fast.', 'shining.', 'mama.', 'nervous.', 'mark.', 'up.', 'shift baby.', 'near.', 'comin.', 'town.', 'stop.', 'top.', 'night.', 'eighteen eighteen.', 'sunkist soda.', 'three.', 'ashes.', 'girl.', 'go.', 'down.', 'hand.', 'around.', 'wall.', 'mine.', 'ious.', 'grin.', 'me.', 'wintergreen.', 'fight it.', 'know.', 'right.', 'free.', 'wins.', 'doubt.', 'lie.', 'reason why.', 'summer.', 'sold.', 'were.', 'luxury.', 'california.', 'runnin.', 'road.', 'weakness.', 'hold.', 'next.', 'church.', 'in.', 'hours.', 'more.', 'string.', 'wound.', 'guitar.', 'heaven.', 'smile.', 'fire.', 'pain.', 'us.', 'between.', 'perfect.', 'closer.', 'be.', 'life.', 'here.', 'water.', 'tequila.', 'over.', 'forget.', 'country.', 'no.', 'dress.', 'healin.', 'prada.', 'started.', 'minute.', 'wait.', 'do.', 'e.', 'walker healin.', 'find.', 'yeah.', 'choir.', 'hello.', 'see.', 'whoa.', 'her.', 'wants.', 'gotta lock down.', 'shoulders.', 'street.', 'one.', 't shirt.', 'big one.', 'sunrise sunburn sunset repeat ayy.', 'sleeve.', 'unsaid.', 'name.', 'to.', 'thing.', 'traffic jam.', 'job.', 'run.', 'that.', 'chords.', 'radio.', 'glass barefooted.', 'wind.', 'ya.', 'time.', 'other.', 'car.', 'you.', 'out.', 'weeks.', 'losin.', 'super star.', 'baby.', 'lungs.', 'wild.', 'room.'}
+INFO:root:
+Shortest word: (1, 'about.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (39, 'thats the mountains four thousand feet up on without even drunk i pinch myself i feel alive but still be when my buttons like it only hits at me why they turn me harder than just stay for anything.')
+INFO:root:Probability:   7.669575428931839e-41
+
+INFO:root:Repeats:       {'back.', 'earned it.', 'friends.', 'parade.', 'kill me.', 'woo.', 'hangman.', 'say.', 'man.', 'again.', 'rod.', 'sex woo.', 'uh.', 'lunch gross.', 'slow.', 'loot.', 'ayy.', 'tall figure.', 'alright.', 'coupe.', 'now.', 'trip.', 'deep.', 'thick goddamn.', 'low.', 'neck.', 'astro yeah.', 'ddamn ay.', 'pool.', 'am.', 'what.', 'digger.', 'ooh.', 'this.', 'atlantic freeze.', 'trippin.', 'stomach.', 'moves.', 'bitch.', 'fly.', 'mind.', 'bean.', 'ring.', 'money.', 'it.', 'yah.', 'lose.', 'reeboks.', 'threat.', 'ass.', 'love.', 'star.', 'skrrt.', 'oh.', 'above hoes.', 'kickin.', 'hard.', 'sheck bitch.', 'dussé.', 'decide.', 'slayed.', 'dig.', 'cool.', 'comin.', 'alone alone.', 'spending folies.', 'stop.', 'bro.', 'shit.', 'balance.', 'down.', 'go.', 'kodak.', 'ice.', 'but.', 'around.', 'car ay.', 'tr3yway.', 'live that.', 'me.', 'know.', 'right.', 'brrr.', 'though.', 'lebron.', 'scream.', 'lord.', 'flipped.', 'break.', 'sheets.', 'plane.', 'sunstroke.', 'buffalo.', 'alone.', 'mode.', 'goddamn.', 'goblin hahahaha.', 'mommy some.', 'nah.', 'sunflower.', 'be.', 'toned em.', 'life.', 'riding.', 'fuck.', 'head.', 'here.', 'wreck.', 'bow.', 'close.', 'calabasas.', 'coffee.', 'water.', 'no.', 'wraith.', 'faded uh.', 'with.', 'ay.', 'flexin oh oh.', 'finger brrr.', 'moe.', 'made.', 'names.', 'do.', 'clap.', 'yeah.', 'cold.', 'safe.', 'quote.', 'read comments.', 'work.', 'whoa.', 'hoes.', 'freeze.', 'damn.', 'check.', 'hoo.', 'huh.', 'russia.', 'shoulders work.', 'one.', 'broke.', 'someone.', 'flash adobe uh.', 'bodyguard.', 'fraud.', 'checklist damn.', 'celly.', 'casket drippin.', 'everything.', 'that.', 'paid.', 'ah.', 'spinnin.', 'taste.', 'ya.', 'other.', 'hey.', 'you.', 'god.', 'bonnaroo.', 'offense.', 'baby.', 'done.', 'always.', 'yes.', 'room.'}
+INFO:root:
+Shortest word: (1, '2k.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (32, 'nose if we pull up gang signs she wanna play me drake how you just love that z walk up goin through rockin it for a hell pop at me up dope.')
+INFO:root:Probability:   3.030033509766056e-34
+
+INFO:root:Repeats:       {'off.', 'flicker.', 'give.', 'said.', 'darlin.', 'curtain falls.', 'rate.', 'excuses.', 'through.', 'son.', 'large.', 'balling.', 'far.', 'again.', 'control.', 'natural.', 'dreams.', 'straight.', 'quick in .', 'week.', 'midnight.', 'there.', 'story.', 'wreckage.', 'doll.', 'pay.', 'left.', 'oxycodone.', 'bulletproof.', 'alright.', 'rain.', 'way.', 'now.', 'on.', 'rich.', 'teeth.', 'mean.', 'clear.', 'shadows.', 'floor.', 'heart.', 'drops.', 'mazes.', 'for.', 'light.', 'change.', 'hear.', 'all.', 'ours.', 'away.', 'feelings.', 'disease.', 'going.', 'come.', 'forgot.', 'world.', 'wrong.', 'screams .', 'apart.', 'dark.', 'molotov drops.', 'da.', 'taxman.', 'mind.', 'brain.', 'high.', 'shotgun.', 'crescendo.', 'betting continued.', '1334.', 'bleed enough.', 'it.', 'medicine.', 'trust.', 'legendary.', 'clothes off.', 'undercurrents.', 'hardest.', 'long.', 'facing.', 'felons.', 'today.', 'and.', 'oh.', 'kind.', 'rise.', 'like.', 'listen darlin.', 'broken.', 'up.', 'silence.', 'night.', 'vow.', 'dead.', 'ready.', 'down.', 'go.', 'silent.', 'something.', 'around.', 'why.', 'fade.', 'mine.', 'hidden tattoo.', 'me.', 'air.', 'free.', 'know.', 'right.', 'room 1334.', 'display.', 'alive.', 'tortured things .', 'motives.', 'please.', '.', 'pours.', 'loud.', 'plot.', 'sense.', 'place.', 'alone.', 'in.', 'more.', 'stay .', 'pain.', 'us.', 'hide.', 'cutthroat.', 'be.', 'life.', 'head.', 'here.', 'different game.', 'close.', 'forgot remembering too.', 'over.', 'believe.', 'boulevard.', 'nothing.', 'expected.', 'spell epiphany.', 'proud.', 'find.', 'afterwind.', 'cold.', 'yeah.', 'america.', 'enough.', 'end.', 'disappear.', 'building.', 'paradise.', 'basic needs.', 'die.', 'exponentially.', 'inside.', 'eyes.', 'dream.', 'first.', 'doubting.', 'bound.', 'one.', 'fading.', 'darkness.', 'known.', 'trouble.', 'everything.', 'edge.', 'time.', 'seek.', 'falls.', 'gave in.', 'ground.', 'needs.', 'you.', 'out.', 'feelin.', 'glorious display.', 'disturb.', 'baby.'}
+INFO:root:
+Shortest word: (1, '.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (21, 'die for me whats going to take my friends and quit and you live your mind im trapped and plastic surgery.')
+INFO:root:Probability:   5.850643824986692e-25
+
+INFO:root:Repeats:       {'pier.', 'is.', 'wound.', 'church.', 'wait.', 'fight it.', 'say.', 'row.', 'no.', 'world.', 'door.', 'goodnight.', 'morning.', 'jam.', 'song.', 'marilyn.', 'lottery.', 'signs.', 'breath.', 'man.', 'those eyes.', '150.', 'style.', 'body so fine.', 'lights.', 'choosin.', 'make.', 'show.', 'dimes.', 'doubt.', 'run.', 'know.', 'stone.', 'town.', 'millionaire.', 'not.', 'yeah.', 'amaze me.', 'avenue.', 'spare.', 'mind.', 'wants.', 'holding.', 'gone.', 'in.', 'pacsun underneath.', 'baby.', 'shine.', 'tonight.', 'free.', 'far.', 'up.', 'history.', 'ceiling.', 'anywhere.', 'party.', 'wall.', 'repeat.', 'do.', 'got.', 'sold.', 'on.', 'rollin stone.', 'speechless.', 'coal.', 'guitar.', 'tight.', 'lips yeah.', 'hey.', 'out.', 'boots.', 'hands.', 'nervous.', 'look at home.', 'uh.', 'together.', 'love.', 'secret.', 'heat.', 'heart.', 'california.', 'unsaid.', 'time.', 'da.', 'eyes.', 'hand.', 'quit.', 'ious.', 'hundred proof yeah.', 'be.', 'truth.', 'more.', 'night.', 'go.', 'street.', 'am.', 'me.', 'lips.', 'lungs.', 'around.', 'peanut dust.', 'down.', 'golden road.', 'tears.', 'now.', 'stairs.', 'there.', 'all.', 'fire.', 'land.', 'wind blows me.', 'rich.', 'girl.', 'wins.', 'crazy.', 'were.', 'mine.', 'ya.', 'need.', 'sleeve.', 'fall.', 'hallway.', 'dogs.', 'whiskey.', 'water.', 'damn.', 'smile.', 'knee hands-up prayin.', 'fake id.', 'right.', 'chances.', 'brothers.', 'sure.', 'bended knee hands-up prayin.', 'unholy water.', 'you.', 'same.', 'other.', 'judge.', 'hands-up prayin.', 'ground.', 'find.', 'how.', 'hair.', 'life.', 'again.', 'e.', 'honkytonk.', 'shift.', 'while.', 'two.', 'floorboard.', 'floor.', 'di da.', 'high.', 'radio.', 'tequila.', 'rivers run.', 'desperate man.', 'thing.', 'it.', 'top.', 'oooh.', 'dust.', 'beat.', 'about.', 'prayer.', 'country.', 'couple chords.', 'over.', 'bed.', 'lie.', 'overrated.', 'room.', 'gold.', 'name.', 'whoa.', 'radio station.'}
+INFO:root:
+Shortest word: (1, '150.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (39, 'there will all we both know and lets tell everybody knew that no no cab tractor hauling them cool cool cool sheets and id shoot ya laugh about college and watched all my lips take that sun goin down.')
+INFO:root:Probability:   1.6228262619195312e-35
+
+INFO:root:Repeats:       {'for.', 'say.', 'woo.', 'yadadamean.', 'no.', 'last.', 'play me.', 'ring.', 'mary kate.', 'true.', 'surprise.', 'feel.', 'chills right.', 'spinnin.', 'shit.', 'doin.', 'ooh.', 'always.', 'roof.', 'ass.', 'yah.', 'riding.', 'dead.', 'slayed.', 'nah.', 'done.', 'blind dog nigga.', 'with.', 'nigga.', 'wraith.', 'digger.', 'show.', 'ayy.', 'offense.', 'yeah.', 'mind.', 'sweet nah ay.', 'okay.', 'baby.', 'sunflower.', 'our checklist damn.', 'yup.', 'net net worth.', 'free.', 'that.', 'up.', 'pourin fours in calabasas.', 'bitch.', 'though.', 'cup.', '16yrold.', 'hi c.', 'rod.', 'whoever brrr.', 'skrt.', 'break.', 'follow suit.', 'lit.', 'hey.', 'skrrt.', 'oh.', 'trippin.', 'known.', 'uh.', 'mm.', 'ay.', 'paid.', 'buffalo.', 'belt.', 'made.', 'ways.', 'sex.', 'friends.', 'bleed.', 'fuck.', 'back.', 'hoes.', 'money.', 'be.', 'saved.', 'go.', 'kodak.', 'wife that.', 'am.', 'me.', 'dark nigga.', 'trouble.', 'jenny.', 'around.', 'down.', 'patek.', 'goblin hahahaha.', 'now.', 'drake.', 'yes.', 'fabrics chanel.', 'god.', 'all.', 'grip.', 'land.', 'crazy.', 'luke.', 'bro.', 'news.', 'ya.', 'alone.', 'road.', 'eludin.', 'hoo.', 'fly.', 'trapmoneybenny.', 'loot.', 'water.', 'lays.', 'damn.', 'dude.', 'tommy gun.', 'face.', 'huh.', 'ddamn ay.', 'you.', 'brrr.', 'said.', 'sweat.', 'ones go.', 'one.', 'nuts so.', 'og huh.', 'pops.', 'weak yeah.', 'stranger.', 'kickin.', 'life.', 'what.', 'coupe.', 'start.', 'fraud.', 'clip.', 'floor.', 'cool.', 'everything.', 'it.', 'care.', 'dussé.', 'stop.', 'went.', 'cha.', 'why.', 'dust.', 'coffee.', 'about.', 'wave.', 'bow.', 'prettiest face.', 'stopped workin.', 'anyway.', 'drip.', 'room.', 'taste.', 'hell.', 'name.'}
+INFO:root:
+Shortest word: (1, '10.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (31, 'bullet tryna clean em down you and this how a pic i get into it all he yeah ima show put you not no friends i find it all fed up.')
+INFO:root:Probability:   6.603509115869894e-38
+
+INFO:root:Repeats:       {'arrow.', 'land is now.', 'broken.', 'exponentially.', 'for.', 'clear.', 'tuning out.', 'no.', 'disease.', 'believe.', 'world.', 'been using.', 'door.', 'kind.', 'rain.', 'paradise.', 'song.', 'will.', 'midnight.', 'below.', 'mean.', 'darkness.', 'forever.', 'hill.', 'assumed.', 'sense.', 'building.', 'release.', 'taxman.', 'wrong.', '3.', 'facing.', 'oxycodone.', 'through.', 'know.', 'stone.', 'not.', 'mind.', 'first.', 'dark.', 'close.', 'baby.', 'mental shackles off.', 'in.', 'things.', 'to.', 'faith.', 'free.', 'up.', 'history.', 'going.', 'guru.', 'answers.', 'strikes 9.', 'long.', 'disappear.', 'doll.', 'youth.', 'on.', 'trust.', 'sleep.', 'savage.', '.', 'anything.', 'too.', 'hey.', 'out.', 'unspoken.', 'oh.', 'marks.', 'change.', 'like.', 'legendary.', 'cast away.', 'try.', 'cum.', 'oceans flowing.', 'died.', 'heart.', 'move.', 'drops.', 'fade.', 'friends.', 'feelin.', 'worst.', 'time.', 'back.', 'came.', 'eyes.', 'carefully.', 'be.', 'stay.', 'tape parade.', 'more.', 'shadows.', 'night.', 'today.', 'go.', 'upper level.', 'this.', 'prey.', 'alright.', 'head.', 'stain.', 'movie show.', 'call us.', 'me.', 'bulletproof.', 'upon.', 'smoke is.', 'pours.', 'around.', 'way.', 'down.', 'ready.', 'much.', 'now.', 'hearts away.', 'brain.', 'all.', 'fire.', 'comprehend.', 'silence.', 'die.', 'knowin.', 'pain.', 'enough.', 'come.', 'away.', 'listen listen.', 'halls babe.', 'chime.', 'cold.', 'alone.', 'under.', 'best.', 'knees.', 'walked in.', 'give.', 'young.', 'biggest fan.', 'holding on.', 'ghost.', 'forgot.', 'fading.', 'needs.', 'right.', 'you.', 'gods.', 'said.', 'get.', 'off.', 'one.', 'shotgun.', 'and.', 'ground.', 'find.', 'live.', 'life.', 'again.', 'paralysed.', 'rise.', 'attention.', 'start.', 'place.', 'floor.', 'told.', 'fear.', 'days.', 'it.', 'hear.', 'us.', 'here.', 'why.', 'feelings.', 'rest assured.', 'cutthroat.', 'disturb.', 'roll.', 'over.', 'light.', 'pressure.', 'strong.', 'surgery.', 'fight.', 'america.', 'crown.', 'natural.'}
+INFO:root:
+Shortest word: (1, '.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (24, 'need to keep up against my quality should not disturb do you never wills ruined the jaws will take these hands are wearing out.')
+INFO:root:Probability:   9.109383792744025e-25
+
+INFO:root:Repeats:       {'about.', 'doubt.', 'porch.', 'ashes.', 'friends.', 'eighteen.', 'door.', 'sometimes.', 'man.', 'her hand.', 'rocks.', 'homesick.', 'more.', 'yeah.', 'dust.', 'time.', 'shelia.', 'hallway.', 'out.', 'named waylon.', 'girl.', 'hard.', 'make.', 'love.', 'buddies.', 'me.', 'used to.', 'am.', 'da.', 'one.', 'bottle.', 'job.', 'sophomore year.', 'watered down.', 'shed sing along.', 'hair.', 'tequila.', 'jeans.', 'tight.', 'georgia pines.', 'matter now.', 'swear.', 'super star.', 'knee hands-up prayin.', 'shift.', 'summer sophomore year.', 'do.', 'wants.', 'you.', 'unsaid.', 'there.', 'summer.', 'lungs.', 'mind.', 'knee.', 'spare.', 'again.', 'faith.', 'next.', 'together.', 'did.', 'aisle.', 'church.', 'baby.', 'lips.', 'know.', 'heart.', 'night.', 'pavin.', 'e.', 'pile of me.', 'healin.', 'music.', 'history.', 'here.', 'luxury.', 'shoulders.', 'hate.', 'us.', 'need.', 'side.', 'forever.', 'it.', 'be.', 'on.', 'fire.', 'with.', 'laugh jokes.', '150.', 'ya.', 'guitar.', 'bone.', 'walker healin.', 'to.', 'while.', 'jokes.', 'twelve.', 'johnnie walker healin.', 'radio.', 'epiphany.', 'damn.', 'wins.', 'town.', 'sleeve.', 'comin.', 'gold.', 'describe.', 'overrated.', 'wall.', 'eyes.', 'country.', 'repeat.', 'how.', 'caution.', 'texas plain.', 'sold.', 'red wine.', 'marilyn.', 'got.', 'world.', 'no.', 'choosin.', 'lie.', 'speechless.', 'tonight.', 'shirt.', 'toyota.', 'behind.', 'life.', 'prada.', 'room.', 'crazy.', 'anywhere.', 'better than gold.', 'everywhere.', 'thing.', 'in.', 'rich.', 'name.', 'glass barefooted.', 'little.', 'around.', 'honkytonk.', 'favorite songs.', 'far.', 'two.', 'bar.', 'closer.', 'arms.', 'now.', 'bed.', 'street.', 'string.', 'value.', 'alright.', 'hot coal.', 'smile.', 'lights.', 'ious.', 'water.', 'free.', 'up.', 'drunk.', 'dimes.', 'wine.', 'say.', 'see.', 'california.', 'before you.', 'whiskey.', 'angels.', 'pier.', 'down.', 'space between.', 'go.', 'song.', 'backyard dirt.', 'tonk angels.', 'soda.', 'minute.', 'whoa.', 'names shelia.', 'beat.'}
+INFO:root:
+Shortest word: (1, '150.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (29, 'square that aint our friends in to loving how we dont matter if its her kisses ill love is where i remember how we walk hand to every hit.')
+INFO:root:Probability:   3.0722232448754656e-30
+
+INFO:root:Repeats:       {'about.', 'kickin.', 'money.', 'friends.', 'false claim.', 'man.', 'rock.', 'look.', 'yeah.', 'alone.', 'dust.', 'foots yeah.', 'rip.', 'cocky.', 'gross.', 'right.', 'stark yeah.', 'ah.', 'boo.', 'safe.', 'dope.', 'dig.', 'target blaow.', 'hard.', 'love.', 'dance.', 'promise.', 'back.', 'me.', 'work.', 'cole.', 'fed up.', 'neck.', 'cartwheels.', 'gang.', 'one.', 'dollar gettin saved.', 'casket drippin.', 'floor.', 'made.', 'kodak.', 'dark nigga.', 'shit.', 'god.', 'hot.', 'save this.', 'kate.', 'cardi.', 'drip.', 'mm.', 'wrist.', 'gandhi gaddafi hey.', 'you.', 'queen.', 'bow.', 'take.', 'face.', 'piss.', 'mind.', 'tr3yway.', 'again.', 'profane.', 'grip.', 'ayy.', 'uh.', 'baby.', 'slow.', 'know.', 'ring.', 'heart.', 'crowd cheering.', 'chain.', 'loose.', 'suds go.', 'always.', 'stop.', 'zombie hey hey.', 'it.', 'be.', 'low.', 'sis uh.', 'ya.', 'favor.', 'hitta.', '3400 nawfside charles barkley.', 'wave.', 'said.', 'gettin slayed.', 'trouble.', 'last.', 'ass.', 'damn.', 'fraud.', 'givin.', 'ay.', 'smooth.', 'woo.', 'fashions.', 'mirror ooh.', 'roof.', 'ooh.', '10.', 'yo.', 'what.', 'mary kate.', 'atlantic freeze.', 'fine.', 'light.', 'coupe.', 'bitch.', 'ching.', 'sweat.', 'lord.', 'taste.', 'sunflower.', 'benz.', 'playlist.', 'hoo.', 'whoever brrr.', 'no.', 'fuck.', 'room.', 'dude.', 'felt.', 'fly.', 'again amen lord.', 'attendant.', 'plane.', 'yah.', 'thing.', 'legs.', 'range red dot.', 'oh.', 'around.', 'slayed.', 'head.', 'thick goddamn.', 'now.', 'control.', 'this.', 'bro.', 'movin now.', 'riding.', 'but.', 'nigga.', 'that.', 'baggage claim.', 'eh.', 'read comments.', 'up.', 'oc.', 'pa.', 'daily.', 'whoa.', 'cha.', 'say.', 'true.', 'huh.', 'rod.', 'skrrt.', 'brrr.', 'down.', 'close.', 'go.', 'miss.', 'performin.', 'lazy.', 'case.'}
+INFO:root:
+Shortest word: (1, '10.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (31, 'playing her to turn around and man i cannot change you want it on his face baby girl cause im the dick in versace said than the backend just stopped workin.')
+INFO:root:Probability:   9.311554111555913e-33
+
+INFO:root:Repeats:       {'is.', 'clean.', 'doll.', 'friends.', 'brain.', 'door.', 'consequence or never.', 'more.', 'thinking.', 'yeah.', 'alone.', 'haul.', 'something.', 'silence.', 'young.', 'body.', 'really ashamed.', 'way.', 'doubting.', 'time.', 'away.', 'right.', 'crawling.', 'try.', 'out.', 'expected.', 'swell.', 'ready.', 'stage.', 'abuser.', 'stain.', 'back.', 'fade.', 'parade.', 'everybody stumbles.', 'me.', 'broken.', 'da.', 'one.', 'floor.', 'hope.', 'going.', 'assumed.', 'through.', 'best.', 'legends rise.', 'dark.', 'disease.', 'hear.', 'below.', 'pressure.', 'kind.', 'you.', 'motives.', 'mind.', 'paralyzed.', 'next one.', 'place.', 'again.', 'sake ever.', 'faith.', 'midnight.', 'tragedy.', 'babe.', 'forgot.', 'visions fading.', 'oxycodone.', 'dreams.', 'baby.', 'know.', 'heart.', 'night.', 'legendary.', 'tape parade.', 'over.', 'here.', 'stop.', 'hey.', 'air.', 'inside.', 'us.', 'hooray.', 'medicine.', 'fading.', 'side.', 'drops.', 'it.', 'be.', 'on.', 'for.', 'guessing.', 'left.', 'off.', 'stars.', 'ours.', 'ya.', 'alive.', 'wrong.', 'feelin.', 'end.', 'cause.', 'seethe stop.', 'pain.', 'america.', 'pageantry.', 'disturb.', 'high.', 'heavy now.', 'lot of day.', 'unspoken.', 'eyes.', 'and.', 'sake.', '3.', 'find.', 'bulletproof.', 'first.', 'fail.', 'dime.', 'rise.', 'manner of.', 'revolution.', 'world.', 'no.', 'believe.', 'start.', 'cold.', 'wohh.', 'preacher will.', 'fuck.', 'life.', 'natural.', 'surgery.', 'autograph.', 'we.', 'hold you.', 'plane.', 'needs.', 'worst.', 'long.', 'excuses.', 'rings.', 'rich.', 'in.', 'oh.', 'around.', 'head.', 'iodine.', 'far.', 'mean.', '9.', 'now.', 'shotgun.', 'rain.', 'flowing.', 'alright.', 'change.', 'roll.', 'that.', 'not.', 'all.', 'crown.', 'up.', 'mine.', 'trust.', 'day.', 'by.', 'see.', 'sense.', 'come.', 'moving.', 'block.', 'down.', 'close.', 'go.', 'with undercurrents.', 'building.', 'die.', 'miss.', 'ever.', 'ground.', '.', 'dead.'}
+INFO:root:
+Shortest word: (1, '.')
+INFO:root:Probability:   1
+INFO:root:
+Longest word:  (29, 'thats probably part was the love is it i spent too much better just stand before but regretting it if my mind and policy that tear me off shotgun.')
+INFO:root:Probability:   9.128679567557166e-31
+
